@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CircuitWise — Your shopping helper</title><link rel="icon" href="/static/favicon.svg"><link rel="stylesheet" href="/static/style.css"><link rel="stylesheet" href="/static/simple.css"><script src="/static/voice-controller.js" defer></script><script src="/static/app.js" defer></script></head>
+<body><header><a class="brand" href="/">CircuitWise</a><button id="bag-button" class="bag-button">Your cart <span id="bag-count">0</span></button></header>
+<main>
+<aside class="guide" aria-labelledby="guide-heading">
+<div class="guide-top"><div><h1 id="guide-heading">Let's find what you need.</h1><p id="guide-status" role="status">Choose Start talking, or type below.</p></div></div>
+<div class="voice-area"><div id="voice-orb" class="voice-orb" aria-hidden="true"><i></i><i></i><i></i></div><button id="mic" class="mic-button" aria-pressed="false">Start talking</button><button id="interrupt" class="primary" hidden>Stop reply — my turn</button><p id="voice-note">Speak normally. I'll listen, reply, then listen again.</p></div>
+<div id="error" class="error" role="alert" hidden></div>
+<div id="conversation" class="conversation" role="log" aria-label="Conversation" aria-live="polite"></div>
+<form id="chat-form" class="chat-form"><label class="sr-only" for="chat-input">Your question</label><input id="chat-input" placeholder="Or type your question here" maxlength="2000" required><button type="submit" aria-label="Send message">Send</button></form>
+<div class="suggestions" aria-label="Ideas to get started"><button data-prompt="I need a laptop for school">Find a laptop</button><button data-prompt="I need a TV for movies">Find a TV</button></div>
+<details class="details"><summary>Voice settings and conversation</summary><button id="mute" class="mute-button" aria-pressed="false">Read replies aloud: off</button><button id="reset">Clear conversation and cart</button><p>Microphone input pauses during replies. Use “Stop reply — my turn” to speak sooner.</p><a href="/research" target="_blank" rel="noopener">Research dashboard</a><p id="model-status"></p><p id="trace-status"></p></details>
+<div id="rating" class="rating" hidden><span>Did that help?</span><button data-rating="true">Yes</button><button data-rating="false">No</button></div>
+</aside>
+<section class="shop" aria-labelledby="shop-heading"><h2 id="shop-heading">Products for you</h2><p class="intro">Tell me what you need and your budget. We'll look at a few choices together.</p>
+<form id="search-form" hidden><input id="search-input"><button>Search</button></form>
+<div class="catalog-toolbar"><span id="result-count"></span><button id="clear-search">Browse all</button></div><div id="requirements" class="requirements" aria-live="polite"></div><div id="products" class="products"></div><div id="comparison" class="comparison" hidden></div><p class="shop-footer">Demo store. No payment or real order.</p></section>
+</main>
+<dialog id="bag"><div class="dialog-heading"><h2>Your cart</h2><button id="close-bag" class="icon-button" aria-label="Close cart">Close</button></div><div id="bag-items"></div><div id="bag-total"></div><p>Demo only. No payment will be taken.</p><button id="checkout" class="primary">Complete demo checkout</button><p id="checkout-status" role="status"></p></dialog><div id="toast" role="status" class="toast" hidden></div>
+</body></html>

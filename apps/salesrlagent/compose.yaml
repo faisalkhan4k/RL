@@ -1,0 +1,28 @@
+services:
+  app:
+    build:
+      context: .
+      target: runtime
+    env_file: .env
+    ports: ["127.0.0.1:8000:8000"]
+    environment:
+      SALES_DB_PATH: /app/data/sales.sqlite3
+    volumes: ["sales-data:/app/data"]
+    restart: unless-stopped
+    security_opt: ["no-new-privileges:true"]
+    cap_drop: [ALL]
+    mem_limit: 768m
+    cpus: 1.0
+  trainer:
+    profiles: [training]
+    build:
+      context: .
+      target: training
+    volumes: ["./artifacts:/app/artifacts"]
+    network_mode: none
+    mem_limit: 3g
+    cpus: 2.0
+    security_opt: ["no-new-privileges:true"]
+    cap_drop: [ALL]
+volumes:
+  sales-data:

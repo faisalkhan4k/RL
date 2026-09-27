@@ -1,0 +1,167 @@
+{
+  "scope": "Synthetic simulator only; not evidence of real customer conversion or real audio quality.",
+  "seed": 42,
+  "steps": 100000,
+  "episodes_per_split": 100,
+  "personas": {
+    "train": [
+      "decisive",
+      "beginner",
+      "price_sensitive",
+      "technical",
+      "impatient"
+    ],
+    "validation": [
+      "skeptical",
+      "comparison"
+    ],
+    "test": [
+      "contradictory",
+      "uncertain"
+    ]
+  },
+  "llm_baseline": {
+    "status": "not_run",
+    "reason": "Requires a configured hosted LLM and separate evaluation budget"
+  },
+  "strategy": {
+    "validation": {
+      "random": {
+        "reward": -1.3186066113652886,
+        "success": 0.02,
+        "cart": 0.14,
+        "quality": 0.4483506372786198,
+        "abandoned": 0.4,
+        "turns": 7.51,
+        "questions": 1.96,
+        "repeated": 0.42,
+        "information_efficiency": 0.45329350082975567,
+        "reward_standard_error": 0.4670016914374938
+      },
+      "rules": {
+        "reward": 10.214092066659484,
+        "success": 0.67,
+        "cart": 0.93,
+        "quality": 0.7433758831039999,
+        "abandoned": 0.33,
+        "turns": 8.16,
+        "questions": 2.0,
+        "repeated": 0.0,
+        "information_efficiency": 0.6931471805599453,
+        "reward_standard_error": 0.9270754606226026
+      },
+      "supervised": {
+        "reward": 10.214092066659484,
+        "success": 0.67,
+        "cart": 0.93,
+        "quality": 0.7433758831039999,
+        "abandoned": 0.33,
+        "turns": 8.16,
+        "questions": 2.0,
+        "repeated": 0.0,
+        "information_efficiency": 0.6931471805599453,
+        "reward_standard_error": 0.9270754606226026
+      },
+      "ppo": {
+        "reward": 12.36741162604113,
+        "success": 0.86,
+        "cart": 0.93,
+        "quality": 0.7474017716132971,
+        "abandoned": 0.07,
+        "turns": 6.09,
+        "questions": 1.11,
+        "repeated": 0.06,
+        "information_efficiency": 0.6810171049001461,
+        "reward_standard_error": 0.6641610886829777
+      },
+      "ppo_no_information": {
+        "reward": 11.368607086453189,
+        "success": 0.87,
+        "cart": 0.93,
+        "quality": 0.7474017716132971,
+        "abandoned": 0.06,
+        "turns": 5.05,
+        "questions": 0.0,
+        "repeated": 0.0,
+        "information_efficiency": 0.0,
+        "reward_standard_error": 0.6559455039600557
+      }
+    },
+    "test": {
+      "random": {
+        "reward": -2.717816851179003,
+        "success": 0.0,
+        "cart": 0.03,
+        "quality": 0.2658041713860989,
+        "abandoned": 0.38,
+        "turns": 6.57,
+        "questions": 1.68,
+        "repeated": 0.29,
+        "information_efficiency": 0.3934765494978622,
+        "reward_standard_error": 0.4438964350854079
+      },
+      "rules": {
+        "reward": -0.8085611052519801,
+        "success": 0.23,
+        "cart": 0.45,
+        "quality": 0.6039908221726631,
+        "abandoned": 0.77,
+        "turns": 10.21,
+        "questions": 2.52,
+        "repeated": 0.0,
+        "information_efficiency": 0.5730016692628881,
+        "reward_standard_error": 1.0868406004624194
+      },
+      "supervised": {
+        "reward": -0.9039976391431515,
+        "success": 0.27,
+        "cart": 0.45,
+        "quality": 0.6039908221726631,
+        "abandoned": 0.73,
+        "turns": 9.98,
+        "questions": 2.0,
+        "repeated": 0.0,
+        "information_efficiency": 0.5129289136143597,
+        "reward_standard_error": 1.089697674528925
+      },
+      "ppo": {
+        "reward": -0.7914075617632279,
+        "success": 0.39,
+        "cart": 0.45,
+        "quality": 0.6528575042808005,
+        "abandoned": 0.54,
+        "turns": 8.15,
+        "questions": 0.62,
+        "repeated": 0.06,
+        "information_efficiency": 0.34657359027997253,
+        "reward_standard_error": 1.3956340196264765
+      },
+      "ppo_no_information": {
+        "reward": -1.083569982876797,
+        "success": 0.41,
+        "cart": 0.45,
+        "quality": 0.6528575042808005,
+        "abandoned": 0.52,
+        "turns": 7.59,
+        "questions": 0.0,
+        "repeated": 0.0,
+        "information_efficiency": 0.0,
+        "reward_standard_error": 1.354230625401506
+      }
+    }
+  },
+  "voice": {
+    "fixed_rules": {
+      "reward": 33.63800000000002,
+      "interruptions": 0.0,
+      "recoveries": 5.01,
+      "reward_standard_error": 0.24480923185206818
+    },
+    "ppo": {
+      "reward": 27.795625000000005,
+      "interruptions": 0.0,
+      "recoveries": 0.0,
+      "reward_standard_error": 0.2727699565911723
+    }
+  }
+}

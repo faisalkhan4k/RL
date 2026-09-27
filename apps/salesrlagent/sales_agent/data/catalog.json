@@ -1,0 +1,741 @@
+[
+  {
+    "id": "sony-wh1000xm5",
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "headphones",
+    "department": "audio",
+    "price": 299.99,
+    "source_url": "https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-s",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": 399.99,
+    "specs": {
+      "Design": "Over-ear",
+      "Battery": "Up to 30 hours"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "travel",
+      "music",
+      "long battery"
+    ],
+    "description": "Quiet your commute with wireless over-ear listening.",
+    "tradeoff": "Over-ear headphones take more bag space than earbuds.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "WH 1000 XM5",
+      "WH1000XM5"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "google-pixel-9a",
+    "name": "Google Pixel 9a",
+    "brand": "Google",
+    "category": "phones",
+    "department": "mobile",
+    "price": 499,
+    "source_url": "https://store.google.com/config/pixel_9a?hl=en-US",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Storage": "128 GB",
+      "Network": "Unlocked"
+    },
+    "features": [
+      "portable",
+      "home",
+      "work"
+    ],
+    "description": "An unlocked Android phone for everyday use.",
+    "tradeoff": "Check your carrier compatibility before buying.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Pixel 9a",
+      "Pixel nine a",
+      "Pixel9a"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-airpods-5",
+    "name": "Apple AirPods 5",
+    "brand": "Apple",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 129,
+    "source_url": "https://www.apple.com/shop/buy-airpods/airpods-5",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Case": "USB-C charging",
+      "Listening": "Active noise cancellation"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "portable",
+      "music"
+    ],
+    "description": "Small wireless earphones with a USB-C charging case.",
+    "tradeoff": "Check device compatibility and the ear fit.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "AirPods 5",
+      "AirPods five"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sonos-roam-2",
+    "name": "Sonos Roam 2",
+    "brand": "Sonos",
+    "category": "speakers",
+    "department": "audio",
+    "price": 179,
+    "source_url": "https://www.sonos.com/en-us/shop/roam-2-olive",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Connectivity": "Bluetooth",
+      "Design": "Portable speaker"
+    },
+    "features": [
+      "wireless",
+      "portable",
+      "home",
+      "music"
+    ],
+    "description": "A portable speaker for shared listening.",
+    "tradeoff": "A speaker plays aloud; choose earphones for private listening.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Roam 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-whch530",
+    "name": "Sony WH-CH530",
+    "brand": "Sony",
+    "category": "headphones",
+    "department": "audio",
+    "price": 69.99,
+    "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "On-ear",
+      "Color": "Coral"
+    },
+    "features": [
+      "wireless",
+      "music",
+      "portable"
+    ],
+    "description": "An affordable on-ear option.",
+    "tradeoff": "On-ear fit differs from full over-ear coverage.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "CH530",
+      "WH CH530"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-ult-wear",
+    "name": "Sony ULT WEAR",
+    "brand": "Sony",
+    "category": "headphones",
+    "department": "audio",
+    "price": 149.99,
+    "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": 249.99,
+    "specs": {
+      "Design": "Over-ear",
+      "Color": "Black"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "music",
+      "travel"
+    ],
+    "description": "Over-ear listening with a bass-oriented design.",
+    "tradeoff": "Compare the sound tuning with your music preferences.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "ULT Wear"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-whch730n",
+    "name": "Sony WH-CH730N",
+    "brand": "Sony",
+    "category": "headphones",
+    "department": "audio",
+    "price": 179.99,
+    "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Over-ear",
+      "Color": "White"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "music"
+    ],
+    "description": "Wireless listening with noise cancellation.",
+    "tradeoff": "Try the fit before long listening sessions.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "CH730N",
+      "WH CH730N"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-wh1000xm6",
+    "name": "Sony WH-1000XM6",
+    "brand": "Sony",
+    "category": "headphones",
+    "department": "audio",
+    "price": 459.99,
+    "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Over-ear",
+      "Color": "Midnight blue"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "travel",
+      "music"
+    ],
+    "description": "Premium over-ear headphones.",
+    "tradeoff": "Costs more than the discounted XM5.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "WH 1000 XM6",
+      "WH1000XM6"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-wf1000xm5",
+    "name": "Sony WF-1000XM5",
+    "brand": "Sony",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 279.99,
+    "source_url": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000xm5-b",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": 329.99,
+    "specs": {
+      "Design": "In-ear",
+      "Listening": "Noise cancellation"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "music",
+      "portable"
+    ],
+    "description": "Noise-cancelling earphones in a compact form.",
+    "tradeoff": "In-ear tips need a comfortable seal.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "WF 1000 XM5",
+      "WF1000XM5"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-wf1000xm6",
+    "name": "Sony WF-1000XM6",
+    "brand": "Sony",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 329.99,
+    "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "In-ear",
+      "Color": "Black"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "music",
+      "portable"
+    ],
+    "description": "Premium wireless earbuds.",
+    "tradeoff": "More expensive than the discounted XM5 earbuds.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "WF 1000 XM6",
+      "WF1000XM6"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-linkbuds-fit",
+    "name": "Sony LinkBuds Fit",
+    "brand": "Sony",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 229.99,
+    "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Earbuds",
+      "Color": "Pink"
+    },
+    "features": [
+      "wireless",
+      "portable",
+      "music"
+    ],
+    "description": "Compact wireless earbuds.",
+    "tradeoff": "Fit varies by ear; check the return policy.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "LinkBuds Fit"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-linkbuds-clip",
+    "name": "Sony LinkBuds Clip",
+    "brand": "Sony",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 229.99,
+    "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Open-ear clip",
+      "Color": "Greige"
+    },
+    "features": [
+      "wireless",
+      "portable",
+      "music"
+    ],
+    "description": "Clip-style listening with an open-ear design.",
+    "tradeoff": "An open fit provides less passive isolation.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "LinkBuds Clip"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-airpods-5-wireless",
+    "name": "Apple AirPods 5 Wireless Case",
+    "brand": "Apple",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 149,
+    "source_url": "https://www.apple.com/shop/buy-airpods/airpods-5",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Case": "Wireless charging",
+      "Listening": "Active noise cancellation"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "portable",
+      "music"
+    ],
+    "description": "AirPods with a wireless charging case.",
+    "tradeoff": "Costs more than the USB-C case version.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "AirPods wireless case"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-airpods-pro-3",
+    "name": "Apple AirPods Pro 3",
+    "brand": "Apple",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 249,
+    "source_url": "https://www.apple.com/shop/buy-airpods/airpods-5",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Family": "AirPods Pro",
+      "Design": "In-ear"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "portable",
+      "music"
+    ],
+    "description": "Apple’s in-ear Pro option.",
+    "tradeoff": "Check device compatibility and tip fit.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "AirPods Pro 3",
+      "AirPods Pro three"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-ipad-128",
+    "name": "Apple iPad 128GB Wi-Fi",
+    "brand": "Apple",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 449,
+    "source_url": "https://www.apple.com/shop/buy-ipad/ipad",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Storage": "128 GB",
+      "Connectivity": "Wi-Fi"
+    },
+    "features": [
+      "portable",
+      "school",
+      "home"
+    ],
+    "description": "A tablet for browsing, reading and everyday tasks.",
+    "tradeoff": "This Wi-Fi configuration has no cellular connection.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "iPad 128",
+      "iPad"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "macbook-air-m5-13",
+    "name": "Apple MacBook Air 13 M5",
+    "brand": "Apple",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1099,
+    "source_url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Chip": "Apple M5",
+      "Memory / storage": "16 GB / 512 GB"
+    },
+    "features": [
+      "portable",
+      "school",
+      "work",
+      "16gb ram"
+    ],
+    "description": "A 13-inch Mac laptop for everyday work.",
+    "tradeoff": "Check that your required software supports macOS.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "MacBook Air 13",
+      "MacBook Air"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "macbook-air-m5-15",
+    "name": "Apple MacBook Air 15 M5",
+    "brand": "Apple",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1299,
+    "source_url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Chip": "Apple M5",
+      "Display": "15-inch"
+    },
+    "features": [
+      "portable",
+      "school",
+      "work"
+    ],
+    "description": "A larger-screen MacBook Air.",
+    "tradeoff": "The larger screen also takes more bag space.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "MacBook Air 15"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-inzone-m9-ii",
+    "name": "Sony INZONE M9 II",
+    "brand": "Sony",
+    "category": "monitors",
+    "department": "computers",
+    "price": 749.99,
+    "source_url": "https://electronics.sony.com/tv-video/gaming-monitors/c/inzone-monitors",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": 949.99,
+    "specs": {
+      "Display": "27-inch 4K",
+      "Refresh rate": "160 Hz"
+    },
+    "features": [
+      "4k",
+      "gaming",
+      "work"
+    ],
+    "description": "A 4K desktop display with a fast refresh rate.",
+    "tradeoff": "Driving games at 4K requires suitable graphics hardware.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "INZONE M9 II",
+      "INZONE M9 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-inzone-m10s",
+    "name": "Sony INZONE M10S",
+    "brand": "Sony",
+    "category": "monitors",
+    "department": "computers",
+    "price": 899.99,
+    "source_url": "https://electronics.sony.com/tv-video/gaming-monitors/c/inzone-monitors",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "27-inch QHD OLED",
+      "Refresh rate": "480 Hz"
+    },
+    "features": [
+      "oled",
+      "gaming"
+    ],
+    "description": "A high-refresh OLED gaming monitor.",
+    "tradeoff": "QHD has fewer pixels than 4K.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "INZONE M10S"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-inzone-m10s-ii",
+    "name": "Sony INZONE M10S II",
+    "brand": "Sony",
+    "category": "monitors",
+    "department": "computers",
+    "price": 1099.99,
+    "source_url": "https://electronics.sony.com/tv-video/gaming-monitors/c/inzone-monitors",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "27-inch 1440p OLED",
+      "Refresh rate": "540 Hz"
+    },
+    "features": [
+      "oled",
+      "gaming"
+    ],
+    "description": "A fast OLED display for competitive play.",
+    "tradeoff": "High frame rates depend on the game and computer.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "INZONE M10S II",
+      "INZONE M10S 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-zv1f",
+    "name": "Sony ZV-1F",
+    "brand": "Sony",
+    "category": "cameras",
+    "department": "photography",
+    "price": 599.99,
+    "source_url": "https://electronics.sony.com/imaging/compact-cameras/c/vlog-cameras",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Type": "Vlog camera"
+    },
+    "features": [
+      "creator",
+      "portable"
+    ],
+    "description": "A compact starting point for video creation.",
+    "tradeoff": "Compare lens flexibility with interchangeable-lens models.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "ZV1F",
+      "ZV 1F"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-zv1-ii",
+    "name": "Sony ZV-1 II",
+    "brand": "Sony",
+    "category": "cameras",
+    "department": "photography",
+    "price": 999.99,
+    "source_url": "https://electronics.sony.com/imaging/compact-cameras/c/vlog-cameras",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Type": "Vlog camera"
+    },
+    "features": [
+      "creator",
+      "portable"
+    ],
+    "description": "A compact camera for a video-focused setup.",
+    "tradeoff": "Consider whether you need interchangeable lenses.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "ZV1 II",
+      "ZV 1 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-zve10",
+    "name": "Sony ZV-E10",
+    "brand": "Sony",
+    "category": "cameras",
+    "department": "photography",
+    "price": 799.99,
+    "source_url": "https://electronics.sony.com/imaging/compact-cameras/c/vlog-cameras",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Sensor": "24 MP APS-C",
+      "Video": "4K 30p"
+    },
+    "features": [
+      "creator",
+      "4k"
+    ],
+    "description": "An interchangeable-lens camera for making videos.",
+    "tradeoff": "Budget for compatible lenses and accessories.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "ZVE10",
+      "ZV E10"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-zve10-ii",
+    "name": "Sony ZV-E10 II",
+    "brand": "Sony",
+    "category": "cameras",
+    "department": "photography",
+    "price": 1199.99,
+    "source_url": "https://electronics.sony.com/imaging/compact-cameras/c/vlog-cameras",
+    "price_checked_at": "2026-09-24",
+    "price_kind": "snapshot",
+    "compare_at_price": null,
+    "specs": {
+      "Type": "Interchangeable-lens vlog camera"
+    },
+    "features": [
+      "creator"
+    ],
+    "description": "A newer option in Sony’s E10 camera line.",
+    "tradeoff": "Check the exact lens bundle before ordering.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "ZVE10 II",
+      "ZV E10 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  }
+]

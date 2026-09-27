@@ -1,0 +1,13 @@
+.git
+.env
+.env.*
+.venv
+**/__pycache__
+data
+artifacts
+morale-booster
+*.egg-info
+*.sqlite3*
+*.log
+frontend/node_modules
+sales_agent/static/ui

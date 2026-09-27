@@ -1,0 +1,9 @@
+{
+  "uid":"salesrlagent","title":"SalesRLAgent","schemaVersion":39,"version":1,
+  "refresh":"10s","time":{"from":"now-30m","to":"now"},
+  "panels":[
+    {"id":1,"type":"timeseries","title":"Completed turns per second","datasource":{"type":"prometheus","uid":"prometheus"},"gridPos":{"x":0,"y":0,"w":12,"h":8},"targets":[{"expr":"sum(rate(sales_turns_total[5m])) by (strategy)","legendFormat":"{{strategy}}","refId":"A"}]},
+    {"id":2,"type":"timeseries","title":"Turn latency p95 (ms)","datasource":{"type":"prometheus","uid":"prometheus"},"gridPos":{"x":12,"y":0,"w":12,"h":8},"targets":[{"expr":"histogram_quantile(0.95, sum(rate(sales_turn_duration_milliseconds_bucket[5m])) by (le))","refId":"A"}]},
+    {"id":3,"type":"timeseries","title":"Feedback by helpfulness","datasource":{"type":"prometheus","uid":"prometheus"},"gridPos":{"x":0,"y":8,"w":12,"h":8},"targets":[{"expr":"sum(sales_feedback_total) by (helpful)","legendFormat":"{{helpful}}","refId":"A"}]}
+  ]
+}

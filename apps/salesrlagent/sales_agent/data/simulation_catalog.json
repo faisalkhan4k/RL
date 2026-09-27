@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "trailbook",
+    "name": "TrailBook 14",
+    "category": "laptops",
+    "department": "computers",
+    "price": 699,
+    "description": "A light 14-inch laptop with long battery life for school and travel.",
+    "features": [
+      "portable",
+      "school",
+      "work",
+      "16gb ram",
+      "512gb storage",
+      "long battery"
+    ],
+    "tradeoff": "Integrated graphics are not designed for demanding games",
+    "stock": 11,
+    "icon": "💻",
+    "specs": {
+      "Display": "14-inch 1920×1200",
+      "Memory": "16 GB",
+      "Storage": "512 GB SSD"
+    }
+  },
+  {
+    "id": "connect-lite-5g",
+    "name": "Connect Lite 5G",
+    "category": "phones",
+    "department": "mobile",
+    "price": 249,
+    "description": "A straightforward phone with a large display and long battery life.",
+    "features": [
+      "home",
+      "portable",
+      "long battery"
+    ],
+    "tradeoff": "Basic low-light photography",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "6.5-inch LCD",
+      "Includes": "128 GB storage",
+      "Note": "5,000 mAh battery"
+    }
+  },
+  {
+    "id": "view55",
+    "name": "ViewSeries QLED 55",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 649,
+    "description": "A bright 55-inch 4K TV with strong color for mixed living-room use.",
+    "features": [
+      "4k",
+      "hdr",
+      "120hz",
+      "gaming",
+      "movies",
+      "bright room",
+      "smart tv"
+    ],
+    "tradeoff": "Black levels are not as deep as OLED",
+    "stock": 10,
+    "icon": "📺",
+    "specs": {
+      "Panel": "55-inch QLED",
+      "Refresh": "120 Hz",
+      "Ports": "4 HDMI, 2 HDMI 2.1"
+    }
+  },
+  {
+    "id": "horizon",
+    "name": "Horizon ANC Headphones",
+    "category": "headphones",
+    "department": "audio",
+    "price": 179,
+    "description": "Comfortable noise cancelling headphones for commuting and flights.",
+    "features": [
+      "noise cancelling",
+      "wireless",
+      "travel",
+      "30 hour battery"
+    ],
+    "tradeoff": "Not water resistant",
+    "stock": 18,
+    "icon": "🎧",
+    "specs": {
+      "Battery": "30 hours",
+      "Connection": "Bluetooth 5.3",
+      "Weight": "254 g"
+    }
+  },
+  {
+    "id": "slate-mini-8",
+    "name": "Slate Mini 8",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 149,
+    "description": "A small tablet for reading, recipes and watching videos.",
+    "features": [
+      "portable",
+      "travel",
+      "family"
+    ],
+    "tradeoff": "Slower for multitasking",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "8-inch IPS",
+      "Includes": "64 GB storage",
+      "Note": "10-hour battery"
+    }
+  },
+  {
+    "id": "deskview-24",
+    "name": "DeskView 24",
+    "category": "monitors",
+    "department": "computers",
+    "price": 129,
+    "description": "A compact monitor for documents and a home office.",
+    "features": [
+      "work",
+      "school",
+      "home"
+    ],
+    "tradeoff": "No USB-C charging",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "24-inch IPS",
+      "Includes": "1080p resolution",
+      "Note": "75 Hz refresh"
+    }
+  },
+  {
+    "id": "pixelpro",
+    "name": "PixelPro Mirrorless",
+    "category": "cameras",
+    "department": "cameras",
+    "price": 899,
+    "description": "A compact interchangeable-lens camera for travel photos and 4K video.",
+    "features": [
+      "4k",
+      "travel",
+      "creator",
+      "interchangeable lens",
+      "stabilization"
+    ],
+    "tradeoff": "Lens selection adds cost beyond the included kit lens",
+    "stock": 8,
+    "icon": "📷",
+    "specs": {
+      "Sensor": "24 MP APS-C",
+      "Video": "4K 60 fps",
+      "Lens": "16–50 mm kit"
+    }
+  },
+  {
+    "id": "nova-console",
+    "name": "Nova Console X",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 499,
+    "description": "A 4K living-room console with fast loading and a disc drive.",
+    "features": [
+      "4k",
+      "gaming",
+      "disc drive",
+      "family",
+      "multiplayer"
+    ],
+    "tradeoff": "Online multiplayer requires a separate subscription",
+    "stock": 7,
+    "icon": "🎮",
+    "specs": {
+      "Storage": "1 TB",
+      "Output": "Up to 4K 120 Hz",
+      "Included": "1 wireless controller"
+    }
+  },
+  {
+    "id": "moveband-fit",
+    "name": "MoveBand Fit",
+    "category": "wearables",
+    "department": "mobile",
+    "price": 59,
+    "description": "A lightweight fitness band for steps, sleep and reminders.",
+    "features": [
+      "running",
+      "portable",
+      "water resistant",
+      "long battery"
+    ],
+    "tradeoff": "No built-in GPS",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "10-day battery",
+      "Includes": "5 ATM rating",
+      "Note": "Optical heart-rate sensor"
+    }
+  },
+  {
+    "id": "pebble-portable",
+    "name": "Pebble Portable",
+    "category": "speakers",
+    "department": "audio",
+    "price": 49,
+    "description": "A palm-sized waterproof speaker for trips and picnics.",
+    "features": [
+      "wireless",
+      "portable",
+      "water resistant",
+      "travel"
+    ],
+    "tradeoff": "Limited bass at high volume",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "12-hour battery",
+      "Includes": "IP67 rating",
+      "Note": "Bluetooth 5.3"
+    }
+  },
+  {
+    "id": "doorview",
+    "name": "DoorView Video Doorbell",
+    "category": "smart home",
+    "department": "smart home",
+    "price": 149,
+    "description": "A battery video doorbell with person alerts and two-way talk.",
+    "features": [
+      "wireless",
+      "security",
+      "battery",
+      "smart home"
+    ],
+    "tradeoff": "Cloud video history requires an optional subscription",
+    "stock": 21,
+    "icon": "🔔",
+    "specs": {
+      "Video": "2K HDR",
+      "Power": "Battery or wired",
+      "Field of view": "160°"
+    }
+  },
+  {
+    "id": "mesh3",
+    "name": "WholeHome Mesh 3-Pack",
+    "category": "networking",
+    "department": "smart home",
+    "price": 279,
+    "description": "Three Wi-Fi 6E nodes for reliable coverage across a larger home.",
+    "features": [
+      "wifi 6e",
+      "home",
+      "gaming",
+      "smart home"
+    ],
+    "tradeoff": "Advanced network controls are limited",
+    "stock": 16,
+    "icon": "📡",
+    "specs": {
+      "Coverage": "Up to 6,000 sq ft",
+      "Bands": "Tri-band",
+      "Ports": "2.5 GbE per node"
+    }
+  },
+  {
+    "id": "cleanbot",
+    "name": "CleanBot Smart Vacuum",
+    "category": "appliances",
+    "department": "appliances",
+    "price": 399,
+    "description": "A self-emptying robot vacuum that maps rooms and avoids common obstacles.",
+    "features": [
+      "smart home",
+      "pets",
+      "self emptying",
+      "home"
+    ],
+    "tradeoff": "Mopping is for light maintenance, not deep cleaning",
+    "stock": 9,
+    "icon": "🧹",
+    "specs": {
+      "Runtime": "140 minutes",
+      "Bin": "60-day base",
+      "Navigation": "LiDAR"
+    }
+  },
+  {
+    "id": "pulse",
+    "name": "Pulse Mini Earbuds",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 89,
+    "description": "Secure, sweat-ready earbuds for workouts and everyday calls.",
+    "features": [
+      "wireless",
+      "running",
+      "water resistant",
+      "8 hour battery"
+    ],
+    "tradeoff": "No active noise cancelling",
+    "stock": 26,
+    "icon": "🎵",
+    "specs": {
+      "Battery": "8 + 24 hours",
+      "Rating": "IPX5",
+      "Connection": "Bluetooth 5.3"
+    }
+  },
+  {
+    "id": "keyflow-wireless",
+    "name": "KeyFlow Wireless",
+    "category": "accessories",
+    "department": "computers",
+    "price": 79,
+    "description": "A quiet full-size keyboard for comfortable everyday typing.",
+    "features": [
+      "wireless",
+      "work",
+      "school"
+    ],
+    "tradeoff": "No backlighting",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "Bluetooth + USB receiver",
+      "Includes": "Rechargeable battery",
+      "Note": "Numeric keypad"
+    }
+  },
+  {
+    "id": "creatorbook",
+    "name": "CreatorBook 16",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1299,
+    "description": "A color-accurate 16-inch performance laptop for editing and creative work.",
+    "features": [
+      "creator",
+      "work",
+      "32gb ram",
+      "1tb storage",
+      "dedicated graphics"
+    ],
+    "tradeoff": "Heavier and has shorter battery life than TrailBook",
+    "stock": 6,
+    "icon": "💻",
+    "specs": {
+      "Display": "16-inch 2.5K",
+      "Memory": "32 GB",
+      "Graphics": "8 GB dedicated"
+    }
+  },
+  {
+    "id": "vista-phone-8",
+    "name": "Vista Phone 8",
+    "category": "phones",
+    "department": "mobile",
+    "price": 499,
+    "description": "A balanced everyday phone with an OLED screen and stabilized camera.",
+    "features": [
+      "travel",
+      "portable",
+      "oled"
+    ],
+    "tradeoff": "No optical zoom lens",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "6.1-inch OLED",
+      "Includes": "256 GB storage",
+      "Note": "50 MP main camera"
+    }
+  },
+  {
+    "id": "cinema65",
+    "name": "Cinema OLED 65",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 1399,
+    "description": "A 65-inch OLED with deep blacks for movies and premium gaming.",
+    "features": [
+      "4k",
+      "hdr",
+      "120hz",
+      "gaming",
+      "movies",
+      "smart tv",
+      "oled"
+    ],
+    "tradeoff": "Costs more and is less suited to very bright rooms",
+    "stock": 5,
+    "icon": "📺",
+    "specs": {
+      "Panel": "65-inch OLED",
+      "Refresh": "120 Hz",
+      "Ports": "4 HDMI 2.1"
+    }
+  },
+  {
+    "id": "studio",
+    "name": "Studio Reference Headphones",
+    "category": "headphones",
+    "department": "audio",
+    "price": 249,
+    "description": "Open-back wired headphones with precise detail for a quiet desk.",
+    "features": [
+      "wired",
+      "music",
+      "studio",
+      "open back"
+    ],
+    "tradeoff": "Sound leaks and there is no noise cancelling",
+    "stock": 9,
+    "icon": "🎧",
+    "specs": {
+      "Connection": "3.5 mm wired",
+      "Design": "Open back",
+      "Weight": "290 g"
+    }
+  },
+  {
+    "id": "studyslate-11",
+    "name": "StudySlate 11",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 329,
+    "description": "A tablet with an included pen for notes and schoolwork.",
+    "features": [
+      "school",
+      "portable",
+      "creator"
+    ],
+    "tradeoff": "Keyboard sold separately",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "11-inch IPS",
+      "Includes": "128 GB storage",
+      "Note": "Pen included"
+    }
+  },
+  {
+    "id": "clarity-27-qhd",
+    "name": "Clarity 27 QHD",
+    "category": "monitors",
+    "department": "computers",
+    "price": 249,
+    "description": "A sharp monitor with an adjustable stand for everyday work.",
+    "features": [
+      "work",
+      "creator"
+    ],
+    "tradeoff": "60 Hz panel",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "27-inch IPS",
+      "Includes": "2560 × 1440",
+      "Note": "USB-C 65 W"
+    }
+  },
+  {
+    "id": "pocketcam",
+    "name": "PocketCam Creator",
+    "category": "cameras",
+    "department": "cameras",
+    "price": 449,
+    "description": "A small stabilized camera built for handheld video and easy sharing.",
+    "features": [
+      "4k",
+      "travel",
+      "creator",
+      "stabilization",
+      "portable"
+    ],
+    "tradeoff": "Fixed lens offers less flexibility than a mirrorless camera",
+    "stock": 12,
+    "icon": "📹",
+    "specs": {
+      "Sensor": "1-inch 20 MP",
+      "Video": "4K 30 fps",
+      "Lens": "24–70 mm equivalent"
+    }
+  },
+  {
+    "id": "switchgo",
+    "name": "SwitchGo Handheld",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 349,
+    "description": "A portable console that also connects to a TV for family play.",
+    "features": [
+      "portable",
+      "gaming",
+      "family",
+      "multiplayer"
+    ],
+    "tradeoff": "Lower graphics performance than a full-size console",
+    "stock": 13,
+    "icon": "🎮",
+    "specs": {
+      "Display": "7-inch OLED",
+      "Storage": "256 GB",
+      "Battery": "4.5–9 hours"
+    }
+  },
+  {
+    "id": "trailwatch-gps",
+    "name": "TrailWatch GPS",
+    "category": "wearables",
+    "department": "mobile",
+    "price": 249,
+    "description": "A sports watch for routes, training and outdoor adventures.",
+    "features": [
+      "running",
+      "travel",
+      "water resistant"
+    ],
+    "tradeoff": "Limited third-party apps",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "Built-in GPS",
+      "Includes": "7-day battery",
+      "Note": "5 ATM rating"
+    }
+  },
+  {
+    "id": "roomtone-stereo",
+    "name": "RoomTone Stereo",
+    "category": "speakers",
+    "department": "audio",
+    "price": 199,
+    "description": "A pair of powered speakers for a desk or small living room.",
+    "features": [
+      "wireless",
+      "music",
+      "home"
+    ],
+    "tradeoff": "Requires mains power",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "60 W total",
+      "Includes": "Bluetooth + RCA",
+      "Note": "Pair included"
+    }
+  },
+  {
+    "id": "homehub-display",
+    "name": "HomeHub Display",
+    "category": "smart home",
+    "department": "smart home",
+    "price": 129,
+    "description": "A bedside smart display for timers, music and connected devices.",
+    "features": [
+      "smart home",
+      "home",
+      "family"
+    ],
+    "tradeoff": "Requires internet for voice features",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "7-inch touchscreen",
+      "Includes": "Wi-Fi + Bluetooth",
+      "Note": "Microphone mute switch"
+    }
+  },
+  {
+    "id": "link-wi-fi-6",
+    "name": "Link Wi-Fi 6",
+    "category": "networking",
+    "department": "smart home",
+    "price": 89,
+    "description": "A straightforward router for an apartment or smaller home.",
+    "features": [
+      "home",
+      "gaming"
+    ],
+    "tradeoff": "Coverage depends on walls and placement",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "Dual-band Wi-Fi 6",
+      "Includes": "4 gigabit LAN ports",
+      "Note": "Up to 1,500 sq ft"
+    }
+  },
+  {
+    "id": "airfry",
+    "name": "CrispCook Air Fryer",
+    "category": "appliances",
+    "department": "appliances",
+    "price": 129,
+    "description": "A dual-zone air fryer that cooks two foods on separate schedules.",
+    "features": [
+      "home",
+      "family",
+      "dual zone",
+      "dishwasher safe"
+    ],
+    "tradeoff": "Wide body uses considerable counter space",
+    "stock": 23,
+    "icon": "🍟",
+    "specs": {
+      "Capacity": "9 qt",
+      "Zones": "2 independent",
+      "Power": "1,800 W"
+    }
+  },
+  {
+    "id": "air",
+    "name": "Air Buds Pro",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 149,
+    "description": "Compact noise cancelling earbuds tuned for travel and calls.",
+    "features": [
+      "noise cancelling",
+      "wireless",
+      "travel",
+      "6 hour battery"
+    ],
+    "tradeoff": "Shorter battery life than Pulse Mini",
+    "stock": 14,
+    "icon": "🎵",
+    "specs": {
+      "Battery": "6 + 18 hours",
+      "Rating": "IPX4",
+      "Modes": "ANC + transparency"
+    }
+  },
+  {
+    "id": "precision-mouse",
+    "name": "Precision Mouse",
+    "category": "accessories",
+    "department": "computers",
+    "price": 49,
+    "description": "An ergonomic wireless mouse with adjustable sensitivity.",
+    "features": [
+      "wireless",
+      "work"
+    ],
+    "tradeoff": "Right-handed shape",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "Bluetooth + USB receiver",
+      "Includes": "6 buttons",
+      "Note": "Rechargeable battery"
+    }
+  },
+  {
+    "id": "gameforge",
+    "name": "GameForge 15",
+    "category": "laptops",
+    "department": "computers",
+    "price": 999,
+    "description": "A fast 144 Hz gaming laptop with upgradeable memory and storage.",
+    "features": [
+      "gaming",
+      "16gb ram",
+      "1tb storage",
+      "dedicated graphics",
+      "144hz"
+    ],
+    "tradeoff": "Fans are audible under load",
+    "stock": 8,
+    "icon": "💻",
+    "specs": {
+      "Display": "15.6-inch 144 Hz",
+      "Memory": "16 GB",
+      "Storage": "1 TB SSD"
+    }
+  },
+  {
+    "id": "vista-pro-max",
+    "name": "Vista Pro Max",
+    "category": "phones",
+    "department": "mobile",
+    "price": 899,
+    "description": "A premium camera phone for photography and smooth gaming.",
+    "features": [
+      "creator",
+      "gaming",
+      "oled",
+      "120hz"
+    ],
+    "tradeoff": "Large size may be awkward one-handed",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "6.7-inch OLED",
+      "Includes": "256 GB storage",
+      "Note": "120 Hz display"
+    }
+  },
+  {
+    "id": "everyday50",
+    "name": "Everyday 4K 50",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 329,
+    "description": "A straightforward 50-inch smart TV for streaming on a smaller budget.",
+    "features": [
+      "4k",
+      "hdr",
+      "movies",
+      "smart tv"
+    ],
+    "tradeoff": "60 Hz panel is less smooth for competitive gaming",
+    "stock": 19,
+    "icon": "📺",
+    "specs": {
+      "Panel": "50-inch LED",
+      "Refresh": "60 Hz",
+      "Ports": "3 HDMI"
+    }
+  },
+  {
+    "id": "quietspace-elite",
+    "name": "QuietSpace Elite",
+    "category": "headphones",
+    "department": "audio",
+    "price": 299,
+    "description": "Plush over-ear headphones for long flights and focused work.",
+    "features": [
+      "noise cancelling",
+      "wireless",
+      "travel",
+      "work"
+    ],
+    "tradeoff": "Bulky carrying case",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "40-hour battery",
+      "Includes": "Bluetooth 5.4",
+      "Note": "Multipoint pairing"
+    }
+  },
+  {
+    "id": "canvas-pro-13",
+    "name": "Canvas Pro 13",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 799,
+    "description": "A large OLED tablet for drawing and media editing.",
+    "features": [
+      "creator",
+      "oled",
+      "120hz"
+    ],
+    "tradeoff": "Keyboard and pen cost extra",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "13-inch OLED",
+      "Includes": "256 GB storage",
+      "Note": "120 Hz display"
+    }
+  },
+  {
+    "id": "velocity-27",
+    "name": "Velocity 27",
+    "category": "monitors",
+    "department": "computers",
+    "price": 329,
+    "description": "A fast gaming monitor with adaptive sync and low input delay.",
+    "features": [
+      "gaming",
+      "144hz"
+    ],
+    "tradeoff": "HDR is limited",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "27-inch IPS",
+      "Includes": "1440p resolution",
+      "Note": "180 Hz refresh"
+    }
+  },
+  {
+    "id": "actioncube-4k",
+    "name": "ActionCube 4K",
+    "category": "cameras",
+    "department": "cameras",
+    "price": 249,
+    "description": "A rugged action camera for cycling, hiking and water sports.",
+    "features": [
+      "4k",
+      "travel",
+      "water resistant",
+      "portable"
+    ],
+    "tradeoff": "Low-light footage is noisy",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "4K 60 fps",
+      "Includes": "10 m waterproof",
+      "Note": "Electronic stabilization"
+    }
+  },
+  {
+    "id": "pocketplay-lite",
+    "name": "PocketPlay Lite",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 199,
+    "description": "A lightweight handheld console for casual games on the go.",
+    "features": [
+      "portable",
+      "gaming",
+      "family"
+    ],
+    "tradeoff": "Cannot connect to a TV",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "5.5-inch LCD",
+      "Includes": "128 GB storage",
+      "Note": "5-hour battery"
+    }
+  },
+  {
+    "id": "everyday-watch",
+    "name": "Everyday Watch",
+    "category": "wearables",
+    "department": "mobile",
+    "price": 179,
+    "description": "A smart watch for notifications, activity and hands-free calls.",
+    "features": [
+      "wireless",
+      "oled",
+      "portable"
+    ],
+    "tradeoff": "Requires a nearby paired phone",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "1.5-inch OLED",
+      "Includes": "2-day battery",
+      "Note": "Bluetooth calls"
+    }
+  },
+  {
+    "id": "bassline-soundbar",
+    "name": "BassLine Soundbar",
+    "category": "speakers",
+    "department": "audio",
+    "price": 279,
+    "description": "A simple TV sound upgrade with a separate wireless subwoofer.",
+    "features": [
+      "movies",
+      "home",
+      "wireless"
+    ],
+    "tradeoff": "No upward-firing height drivers",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "3.1 channels",
+      "Includes": "HDMI eARC",
+      "Note": "Wireless subwoofer"
+    }
+  },
+  {
+    "id": "safeview-indoor",
+    "name": "SafeView Indoor",
+    "category": "smart home",
+    "department": "smart home",
+    "price": 49,
+    "description": "An indoor camera for checking on pets or a room.",
+    "features": [
+      "smart home",
+      "security",
+      "pets"
+    ],
+    "tradeoff": "Memory card sold separately",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "2K video",
+      "Includes": "Night vision",
+      "Note": "microSD slot"
+    }
+  },
+  {
+    "id": "mesh-duo-7",
+    "name": "Mesh Duo 7",
+    "category": "networking",
+    "department": "smart home",
+    "price": 399,
+    "description": "A two-node Wi-Fi 7 system for many connected devices.",
+    "features": [
+      "home",
+      "gaming",
+      "smart home"
+    ],
+    "tradeoff": "Wi-Fi 7 clients needed for full benefits",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "Tri-band Wi-Fi 7",
+      "Includes": "2.5 GbE ports",
+      "Note": "Up to 4,000 sq ft"
+    }
+  },
+  {
+    "id": "breeze-hepa-300",
+    "name": "Breeze HEPA 300",
+    "category": "appliances",
+    "department": "appliances",
+    "price": 159,
+    "description": "A quiet air purifier for a bedroom or small living room.",
+    "features": [
+      "home",
+      "pets"
+    ],
+    "tradeoff": "Replacement filters add ongoing cost",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "HEPA filter",
+      "Includes": "300 sq ft room size",
+      "Note": "24–50 dB"
+    }
+  },
+  {
+    "id": "sportloop-buds",
+    "name": "SportLoop Buds",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 119,
+    "description": "Secure ear-hook earbuds for outdoor runs and workouts.",
+    "features": [
+      "wireless",
+      "running",
+      "water resistant"
+    ],
+    "tradeoff": "Larger charging case",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "10-hour battery",
+      "Includes": "IP67 rating",
+      "Note": "Ear-hook fit"
+    }
+  },
+  {
+    "id": "docklink-usb-c",
+    "name": "DockLink USB-C",
+    "category": "accessories",
+    "department": "computers",
+    "price": 89,
+    "description": "A compact hub for connecting a laptop to a display and peripherals.",
+    "features": [
+      "work",
+      "portable",
+      "4k"
+    ],
+    "tradeoff": "Requires compatible USB-C video output",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "HDMI 4K 60 Hz",
+      "Includes": "USB-C 100 W pass-through",
+      "Note": "Gigabit Ethernet"
+    }
+  },
+  {
+    "id": "studybook-13",
+    "name": "StudyBook 13",
+    "category": "laptops",
+    "department": "computers",
+    "price": 449,
+    "description": "A compact everyday laptop for homework, email and video calls.",
+    "features": [
+      "school",
+      "portable",
+      "work"
+    ],
+    "tradeoff": "Not intended for demanding games",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "8 GB RAM",
+      "Includes": "256 GB SSD",
+      "Note": "13.3-inch IPS"
+    }
+  },
+  {
+    "id": "simplecall-plus",
+    "name": "SimpleCall Plus",
+    "category": "phones",
+    "department": "mobile",
+    "price": 179,
+    "description": "A simple smartphone with large text and a dedicated help button.",
+    "features": [
+      "home",
+      "family",
+      "portable"
+    ],
+    "tradeoff": "Limited storage and basic cameras",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "6.2-inch display",
+      "Includes": "64 GB storage",
+      "Note": "Help shortcut button"
+    }
+  },
+  {
+    "id": "compactview-32",
+    "name": "CompactView 32",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 179,
+    "description": "A small smart TV for a bedroom or kitchen.",
+    "features": [
+      "home",
+      "smart tv"
+    ],
+    "tradeoff": "Not a 4K panel",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "32-inch LED",
+      "Includes": "1080p resolution",
+      "Note": "60 Hz refresh"
+    }
+  },
+  {
+    "id": "everyday-wireless",
+    "name": "Everyday Wireless",
+    "category": "headphones",
+    "department": "audio",
+    "price": 59,
+    "description": "Lightweight headphones for casual music and online classes.",
+    "features": [
+      "wireless",
+      "music",
+      "school"
+    ],
+    "tradeoff": "No active noise cancellation",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "25-hour battery",
+      "Includes": "Bluetooth 5.2",
+      "Note": "180 g weight"
+    }
+  },
+  {
+    "id": "familytab-10",
+    "name": "FamilyTab 10",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 199,
+    "description": "A durable shared tablet with profiles and parental controls.",
+    "features": [
+      "family",
+      "home",
+      "school"
+    ],
+    "tradeoff": "Modest gaming performance",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "10-inch IPS",
+      "Includes": "128 GB storage",
+      "Note": "Protective case included"
+    }
+  },
+  {
+    "id": "panorama-34",
+    "name": "Panorama 34",
+    "category": "monitors",
+    "department": "computers",
+    "price": 549,
+    "description": "An ultrawide screen for timelines, spreadsheets and multitasking.",
+    "features": [
+      "work",
+      "creator"
+    ],
+    "tradeoff": "Needs a wide desk",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "34-inch curved VA",
+      "Includes": "3440 × 1440",
+      "Note": "100 Hz refresh"
+    }
+  },
+  {
+    "id": "frame-pro-full",
+    "name": "Frame Pro Full",
+    "category": "cameras",
+    "department": "cameras",
+    "price": 1599,
+    "description": "A full-frame camera for portraits, events and creative video.",
+    "features": [
+      "4k",
+      "creator",
+      "interchangeable lens",
+      "stabilization"
+    ],
+    "tradeoff": "Lenses and body are heavy",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "24 MP full-frame",
+      "Includes": "4K 60 fps",
+      "Note": "24–70 mm kit lens"
+    }
+  },
+  {
+    "id": "forge-desktop-s",
+    "name": "Forge Desktop S",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 1199,
+    "description": "A desktop gaming PC with room for future upgrades.",
+    "features": [
+      "gaming",
+      "16gb ram",
+      "1tb storage",
+      "dedicated graphics"
+    ],
+    "tradeoff": "Monitor sold separately",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "16 GB RAM",
+      "Includes": "1 TB SSD",
+      "Note": "8 GB dedicated graphics"
+    }
+  },
+  {
+    "id": "cinemasound-atmos",
+    "name": "CinemaSound Atmos",
+    "category": "speakers",
+    "department": "audio",
+    "price": 599,
+    "description": "A soundbar system with rear speakers for immersive movies.",
+    "features": [
+      "movies",
+      "home"
+    ],
+    "tradeoff": "Rear speakers require power outlets",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "5.1.2 channels",
+      "Includes": "HDMI eARC",
+      "Note": "Rear speakers included"
+    }
+  },
+  {
+    "id": "glow-starter-kit",
+    "name": "Glow Starter Kit",
+    "category": "smart home",
+    "department": "smart home",
+    "price": 79,
+    "description": "Three dimmable color bulbs with a local-control bridge.",
+    "features": [
+      "smart home",
+      "home"
+    ],
+    "tradeoff": "E26 sockets only",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "3 bulbs + bridge",
+      "Includes": "800 lumens each",
+      "Note": "Matter support"
+    }
+  },
+  {
+    "id": "swiftstick-vacuum",
+    "name": "SwiftStick Vacuum",
+    "category": "appliances",
+    "department": "appliances",
+    "price": 229,
+    "description": "A cordless stick vacuum for quick cleaning and pet hair.",
+    "features": [
+      "home",
+      "pets",
+      "portable"
+    ],
+    "tradeoff": "Shorter runtime in turbo mode",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "45-minute runtime",
+      "Includes": "HEPA filter",
+      "Note": "2.5 kg weight"
+    }
+  },
+  {
+    "id": "quiet-buds-mini",
+    "name": "Quiet Buds Mini",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 199,
+    "description": "Small noise cancelling earbuds for commuting and calls.",
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "travel"
+    ],
+    "tradeoff": "Touch controls need practice",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "7-hour battery",
+      "Includes": "IPX4 rating",
+      "Note": "Wireless charging case"
+    }
+  },
+  {
+    "id": "pocketdrive-ssd",
+    "name": "PocketDrive SSD",
+    "category": "accessories",
+    "department": "computers",
+    "price": 109,
+    "description": "A small external solid-state drive for projects and backups.",
+    "features": [
+      "portable",
+      "creator",
+      "1tb storage"
+    ],
+    "tradeoff": "Speed depends on host USB port",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "1 TB capacity",
+      "Includes": "USB 3.2 Gen 2",
+      "Note": "Up to 1,050 MB/s"
+    }
+  },
+  {
+    "id": "flexbook-touch-14",
+    "name": "FlexBook Touch 14",
+    "category": "laptops",
+    "department": "computers",
+    "price": 849,
+    "description": "A convertible laptop for handwritten notes and everyday work.",
+    "features": [
+      "school",
+      "work",
+      "portable",
+      "16gb ram"
+    ],
+    "tradeoff": "Pen sold separately",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "16 GB RAM",
+      "Includes": "512 GB SSD",
+      "Note": "14-inch touchscreen"
+    }
+  },
+  {
+    "id": "brightview-mini-led-65",
+    "name": "BrightView Mini LED 65",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 999,
+    "description": "A bright large TV for sports and sunny living rooms.",
+    "features": [
+      "4k",
+      "144hz",
+      "120hz",
+      "gaming",
+      "bright room",
+      "movies"
+    ],
+    "tradeoff": "Some blooming around bright objects",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "65-inch mini LED",
+      "Includes": "4K resolution",
+      "Note": "144 Hz refresh"
+    }
+  },
+  {
+    "id": "cloudplay-controller",
+    "name": "CloudPlay Controller",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 69,
+    "description": "A wireless controller with a phone clip for cloud gaming.",
+    "features": [
+      "wireless",
+      "gaming",
+      "portable"
+    ],
+    "tradeoff": "Cloud service and phone not included",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "Bluetooth + USB-C",
+      "Includes": "20-hour battery",
+      "Note": "Phone clip included"
+    }
+  },
+  {
+    "id": "brewmate-coffee",
+    "name": "BrewMate Coffee",
+    "category": "appliances",
+    "department": "appliances",
+    "price": 99,
+    "description": "A compact drip coffee maker with a programmable timer.",
+    "features": [
+      "home",
+      "family"
+    ],
+    "tradeoff": "No espresso function",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "10-cup capacity",
+      "Includes": "24-hour timer",
+      "Note": "Reusable filter"
+    }
+  },
+  {
+    "id": "atlas-workstation-16",
+    "name": "Atlas Workstation 16",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1799,
+    "description": "A mobile workstation for large creative projects and development.",
+    "features": [
+      "creator",
+      "work",
+      "32gb ram",
+      "1tb storage",
+      "dedicated graphics",
+      "machine learning"
+    ],
+    "tradeoff": "Heavy chassis and audible cooling",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "32 GB RAM",
+      "Includes": "1 TB SSD",
+      "Note": "12 GB dedicated graphics"
+    }
+  },
+  {
+    "id": "cinema-oled-77",
+    "name": "Cinema OLED 77",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 2199,
+    "description": "A large OLED TV for an immersive movie room.",
+    "features": [
+      "4k",
+      "oled",
+      "120hz",
+      "movies",
+      "gaming"
+    ],
+    "tradeoff": "Needs substantial wall space",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "77-inch OLED",
+      "Includes": "4K resolution",
+      "Note": "120 Hz refresh"
+    }
+  },
+  {
+    "id": "featherbook-air-13",
+    "name": "FeatherBook Air 13",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1099,
+    "description": "An ultralight laptop for frequent travel and long workdays.",
+    "features": [
+      "travel",
+      "portable",
+      "work",
+      "16gb ram",
+      "long battery"
+    ],
+    "tradeoff": "Only two USB-C ports",
+    "stock": 15,
+    "icon": "",
+    "specs": {
+      "Specification": "16 GB RAM",
+      "Includes": "512 GB SSD",
+      "Note": "1.05 kg"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "salesrlagent"
+version = "0.2.0"
+requires-python = ">=3.11"
+description = "Observable voice-guided electronics storefront with sequential conversion modeling"
+dependencies = [
+    "mcp>=1.30,<2",
+    "fastapi>=0.115,<1",
+    "uvicorn[standard]>=0.30,<1",
+    "httpx>=0.27,<1",
+    "websockets>=14,<17",
+    "langgraph>=1,<2",
+    "numpy>=2,<3",
+    "opentelemetry-sdk>=1.30,<2",
+    "opentelemetry-exporter-otlp-proto-http>=1.30,<2",
+    "opentelemetry-instrumentation-fastapi>=0.51b0,<1",
+    "vosk>=0.3.45,<0.4",
+    "piper-tts>=1.4,<2",
+]
+
+[project.optional-dependencies]
+training = ["torch>=2.6,<3"]
+research = ["gymnasium>=1,<2", "stable-baselines3>=2.6,<3"]
+postgres = ["psycopg[binary]>=3.2,<4"]
+test = ["torch>=2.6,<3"]
+
+[tool.setuptools.packages.find]
+include = ["sales_agent*"]
+
+[tool.setuptools.package-data]
+sales_agent = ["static/*", "static/ui/*", "static/ui/assets/*", "data/*.json"]

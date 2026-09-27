@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+!.env.example
+*.sqlite3*
+*.db
+*.log
+*.wav
+*.mp3
+*.pcm
+node_modules/
+*.egg-info/
+apps/salesrlagent/data/
+apps/salesrlagent/artifacts/
+apps/salesrlagent/sales_agent/static/ui/

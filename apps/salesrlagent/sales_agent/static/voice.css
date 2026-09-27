@@ -1,0 +1,9 @@
+.mic-button.active {
+  background: var(--yellow);
+  color: var(--ink);
+  box-shadow: 0 0 0 3px #fff, 0 0 0 6px var(--blue);
+}
+
+.voice-orb.enabled:not(.listening) {
+  box-shadow: 0 0 0 5px #dce9ff, 0 10px 30px #c59d0040;
+}
