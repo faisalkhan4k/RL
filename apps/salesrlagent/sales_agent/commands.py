@@ -1,6 +1,6 @@
 """Explicit shopper commands: validated catalog tools, shared by text and voice."""
 import re
-from .catalog import PRODUCTS, BY_ID
+from .catalog import PRODUCTS, BY_ID, requirements, retrieve
 from .hrl.state import new_belief
 
 
@@ -36,10 +36,11 @@ def command(text,state):
     add=bool(re.search(r'\b(add|put|place)\b',t))
     remove=bool(re.search(r'\b(remove|delete|take out)\b',t))
     cart=bool(re.search(r'\b(cart|basket|bag)\b',t))
-    show=bool(re.search(r'\b(show|open|view|see|display|navigate|go|bring|check)\b',t))
-    if re.search(r'\b(don t|do not|dont|never)\b',t):return None
+    show=bool(re.search(r'\b(show|open|view|see|display|navigate|go|bring|check)\b',t) or
+              re.search(r'\bwhat (?:do|have) (?:you|we) (?:have|got)\b|\bwhatever you(?: ve)? got\b',t))
+    if re.search(r'\b(don t|do not|dont|never)\s+(?:add|put|place|remove|delete|show|open|display)\b',t):return None
     targets=named_products(text)
-    actions=[];reply=None;focus=None
+    actions=[];reply=None;focus=None;shown_products=None;updated_requirements=state['requirements']
     page_match=re.search(r'\b(deal of the day|sales|categories|home page)\b',t)
     if show and page_match and not cart and not add and not remove:
         page={'deal of the day':'/deals','sales':'/sales','categories':'/categories','home page':'/'}[page_match[1]]
@@ -84,11 +85,45 @@ def command(text,state):
     elif re.search(r'\b(next|previous|last)\s+(page|slide|products|options)\b',t):
         actions=[{'type':'navigate_products','direction':-1 if re.search(r'\b(previous|last)\b',t) else 1,'product_ids':[]}]
         reply='Moving to the '+('previous' if actions[0]['direction']<0 else 'next')+' page of products.'
+    else:
+        # Browsing the storefront is a UI command, not a language-model choice.
+        # A product/category request must always put real catalog cards on screen.
+        fresh=requirements(text,{})
+        category_request=('category' in fresh or 'department' in fresh) and bool(
+            re.search(r'\b(looking|want|need|find|recommend|options?|products?|shop|buy)\b',t)
+            or re.search(r'\b(close to|near|around|about|under|below|up to|max|budget)\b',t)
+            or show)
+        if (show or category_request) and not re.search(r'\b(compare|difference)\b',t):
+            updated_requirements=requirements(text,state['requirements'])
+            shown_products=retrieve(updated_requirements)
+            exact=bool(shown_products)
+            if not shown_products:
+                # Keep the requested category visible even when an old or new
+                # price/feature constraint has no exact match. Be explicit that
+                # these are alternatives instead of pretending they match.
+                relaxed={key:updated_requirements[key] for key in ('category','department') if key in updated_requirements}
+                if updated_requirements.get('target_price') is not None:
+                    relaxed['target_price']=updated_requirements['target_price']
+                elif updated_requirements.get('budget') is not None:
+                    relaxed['target_price']=updated_requirements['budget']
+                shown_products=retrieve(relaxed)
+            if not shown_products:
+                visible=[BY_ID[pid] for pid in state.get('result_ids',state.get('view_ids',[])) if pid in BY_ID]
+                shown_products=visible or retrieve({})
+            if shown_products:
+                focus=shown_products[0]['id']
+                actions=[{'type':'highlight','product_ids':[focus]}]
+                label=updated_requirements.get('category') or updated_requirements.get('department') or 'products'
+                if exact:
+                    reply=f'Here are the {label} I have in stock. I put the closest match first.'
+                else:
+                    constraint=f' under ${updated_requirements["budget"]:,.0f}' if updated_requirements.get('budget') is not None else ''
+                    reply=f'I could not find an exact match for {label}{constraint}. Here are the closest in-stock {label} instead.'
     if reply is None:return None
     belief=state.get('belief') or new_belief();belief['cart']=bool(state['cart'])
-    products=[BY_ID[i] for i in state.get('result_ids',state.get('view_ids',[])) if i in BY_ID]
+    products=shown_products if shown_products is not None else [BY_ID[i] for i in state.get('result_ids',state.get('view_ids',[])) if i in BY_ID]
     if focus and focus not in [p['id'] for p in products]:products=[targets[0]]+products
-    return {'reply':reply,'products':products,'actions':actions,'requirements':state['requirements'],'belief':belief,
+    return {'reply':reply,'products':products,'actions':actions,'requirements':updated_requirements,'belief':belief,
             'cart':state['cart'],'focus_product_id':focus,'strategy':'CUSTOMER_COMMAND','tool_reply':reply,
             'prediction':{'probability':None},'debug':{'strategy_policy':{'source':'explicit_customer_command'},'executed_action':'CUSTOMER_COMMAND','language_source':'tool_result'}}
 

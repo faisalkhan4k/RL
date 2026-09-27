@@ -37,3 +37,27 @@ class ShoppingCommandTests(unittest.TestCase):
  def test_joined_spoken_model_name(self):
   result=self.chat('Add Pixel9a to my cart')
   self.assertEqual(result['cart'],[{'product_id':'google-pixel-9a','quantity':1}])
+ def test_category_request_immediately_shows_matching_cards(self):
+  result=self.chat('Earphones under $150')
+  self.assertEqual(result['strategy'],'CUSTOMER_COMMAND')
+  self.assertTrue(result['products'])
+  self.assertTrue(all(p['category']=='earbuds' and p['price']<=150 for p in result['products']))
+  self.assertEqual(result['actions'][0]['type'],'highlight')
+ def test_just_show_me_uses_active_category_and_relaxes_stale_budget(self):
+  self.chat('Earphones under $150')
+  self.chat("No, I'm looking for a big monitor")
+  result=self.chat('Now just show me. I would like to see first.')
+  self.assertTrue(result['products'])
+  self.assertTrue(all(p['category']=='monitors' for p in result['products']))
+  self.assertEqual(result['actions'][0]['type'],'highlight')
+  self.assertNotIn("can't display",result['reply'].lower())
+ def test_explicit_show_with_impossible_budget_displays_honest_alternatives(self):
+  result=self.chat('Show me earbuds under $50')
+  self.assertTrue(result['products'])
+  self.assertTrue(all(p['category']=='earbuds' for p in result['products']))
+  self.assertIn('could not find an exact',result['reply'].lower())
+ def test_stop_asking_just_show_me_still_controls_the_storefront(self):
+  self.chat('I want monitors under $200')
+  result=self.chat("Don't ask another question, just show me")
+  self.assertTrue(result['products'])
+  self.assertEqual(result['actions'][0]['type'],'highlight')
