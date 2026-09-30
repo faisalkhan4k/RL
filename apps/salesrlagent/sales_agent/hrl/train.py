@@ -68,6 +68,13 @@ def main():
             report['strategy'][split][name]=evaluate(lambda:CustomerGym(split),choose,args.episodes,100000 if split=='test' else 50000)
     report['voice']={name:evaluate(VoiceGym,choose,args.episodes,200000) for name,choose in {
         'fixed_rules':voice_rule,'ppo':lambda o:models['voice'].predict(o,deterministic=True)[0]}.items()}
+    rule_test=report['strategy']['test']['rules'];ppo_test=report['strategy']['test']['ppo']
+    report['promotion']={
+        'promote_strategy_ppo':bool(ppo_test['success']>=rule_test['success']+.05 and ppo_test['reward']>=rule_test['reward']),
+        'criteria':'At least +5 percentage points held-out synthetic success and no lower mean reward than rules.',
+        'decision':'Use PPO' if ppo_test['success']>=rule_test['success']+.05 and ppo_test['reward']>=rule_test['reward'] else 'Keep rule baseline'}
+    fixed=report['voice']['fixed_rules'];voice_ppo=report['voice']['ppo']
+    report['promotion']['promote_voice_ppo']=bool(voice_ppo['reward']>fixed['reward'] and voice_ppo['interruptions']<=fixed['interruptions'])
     (out/'evaluation.json').write_text(json.dumps(report,indent=2))
     from .report import reward_curves
     reward_curves(out)

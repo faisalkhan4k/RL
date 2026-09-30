@@ -59,8 +59,8 @@ def rule_action(obs):
     if not obs[1]: return Strategy.ASK_USE_CASE
     if obs[14]: return Strategy.HANDLE_PRICE_OBJECTION
     if not obs[13]: return Strategy.RECOMMEND_PRODUCT
-    if not obs[15]: return Strategy.ADD_TO_CART
-    return Strategy.ASK_FOR_PURCHASE
+    if not obs[15]: return Strategy.ASK_FOR_PURCHASE
+    return Strategy.EXPLAIN_VALUE
 
 def update_belief(previous, req, text):
     import copy

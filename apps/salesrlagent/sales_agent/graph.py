@@ -39,6 +39,10 @@ def build_graph(predictor=None):
             elif 'compare' in text or 'difference' in text:selected='COMPARE_PRODUCTS';override='explicit_comparison'
             elif 'cheaper' in text or 'expensive' in text:selected='HANDLE_PRICE_OBJECTION';override='explicit_price_objection'
             elif any(w in text for w in ["don't like",'dont like','dislike','not that one']):selected='SHOW_ALTERNATIVE';override='customer_rejected_recommendation'
+            elif re.search(r'\b(trust|reliable|reliability|warranty|legit|source)\b',text):selected='HANDLE_TRUST_OBJECTION';override='explicit_trust_question'
+            elif re.search(r'\b(why|worth it|good about|value|convince me)\b',text):selected='EXPLAIN_VALUE';override='explicit_value_question'
+            elif re.search(r'\b(specs?|feature|how (?:does|is)|tell me more|battery|display|camera)\b',text):selected='EXPLAIN_FEATURE';override='explicit_feature_question'
+            elif re.search(r'\b(not sure|unsure|thinking about it|hesitant)\b',text):selected='EXPLAIN_VALUE';override='customer_uncertain'
             if selected.startswith('ASK_') and selected in state['belief']['asked']:
                 selected='RECOMMEND_PRODUCT';override='avoid_repeated_question'
             return {'strategy':selected,'debug':{'strategy_policy':decision,'executed_action':selected,'override':override}}
@@ -59,7 +63,7 @@ def build_graph(predictor=None):
             if state.get('skip_language'):
                 reply,source='','groq_stream'
             else:
-                reply,source=await realize(state['strategy'],state['belief'],state['products'],state['messages'])
+                reply,source=await realize(state['strategy'],state['belief'],state['products'],state['messages'],state['requirements'])
             debug={**state['debug'],'belief':state['belief'],'language_source':source,
                    'scope':'Experimental policies trained on synthetic customers; no real-world performance claim.'}
             return {'reply':reply,'debug':debug,'prediction':{'probability':None,'status':'replaced_by_action_policy','provenance':'none'}}

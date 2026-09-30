@@ -7,7 +7,7 @@
     "department": "audio",
     "price": 299.99,
     "source_url": "https://electronics.sony.com/audio/headphones/headband/p/wh1000xm5-s",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": 399.99,
     "specs": {
@@ -28,7 +28,8 @@
     "icon": "",
     "aliases": [
       "WH 1000 XM5",
-      "WH1000XM5"
+      "WH1000XM5",
+      "WH-1000XM5"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -40,7 +41,7 @@
     "department": "mobile",
     "price": 499,
     "source_url": "https://store.google.com/config/pixel_9a?hl=en-US",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -72,7 +73,7 @@
     "department": "audio",
     "price": 129,
     "source_url": "https://www.apple.com/shop/buy-airpods/airpods-5",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -104,7 +105,7 @@
     "department": "audio",
     "price": 179,
     "source_url": "https://www.sonos.com/en-us/shop/roam-2-olive",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -135,7 +136,7 @@
     "department": "audio",
     "price": 69.99,
     "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -154,7 +155,8 @@
     "icon": "",
     "aliases": [
       "CH530",
-      "WH CH530"
+      "WH CH530",
+      "WH-CH530"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -166,7 +168,7 @@
     "department": "audio",
     "price": 149.99,
     "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": 249.99,
     "specs": {
@@ -185,7 +187,8 @@
     "stock_source": "local_demo",
     "icon": "",
     "aliases": [
-      "ULT Wear"
+      "ULT Wear",
+      "ULT WEAR"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -197,7 +200,7 @@
     "department": "audio",
     "price": 179.99,
     "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -216,7 +219,8 @@
     "icon": "",
     "aliases": [
       "CH730N",
-      "WH CH730N"
+      "WH CH730N",
+      "WH-CH730N"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -228,7 +232,7 @@
     "department": "audio",
     "price": 459.99,
     "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -248,7 +252,8 @@
     "icon": "",
     "aliases": [
       "WH 1000 XM6",
-      "WH1000XM6"
+      "WH1000XM6",
+      "WH-1000XM6"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -260,7 +265,7 @@
     "department": "audio",
     "price": 279.99,
     "source_url": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000xm5-b",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": 329.99,
     "specs": {
@@ -280,7 +285,8 @@
     "icon": "",
     "aliases": [
       "WF 1000 XM5",
-      "WF1000XM5"
+      "WF1000XM5",
+      "WF-1000XM5"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -292,7 +298,7 @@
     "department": "audio",
     "price": 329.99,
     "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -312,7 +318,8 @@
     "icon": "",
     "aliases": [
       "WF 1000 XM6",
-      "WF1000XM6"
+      "WF1000XM6",
+      "WF-1000XM6"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -324,7 +331,7 @@
     "department": "audio",
     "price": 229.99,
     "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -354,7 +361,7 @@
     "department": "audio",
     "price": 229.99,
     "source_url": "https://electronics.sony.com/audio/headphones/c/all-headphones",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -384,7 +391,7 @@
     "department": "audio",
     "price": 149,
     "source_url": "https://www.apple.com/shop/buy-airpods/airpods-5",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -403,7 +410,8 @@
     "stock_source": "local_demo",
     "icon": "",
     "aliases": [
-      "AirPods wireless case"
+      "AirPods wireless case",
+      "AirPods 5 Wireless Case"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -415,7 +423,7 @@
     "department": "audio",
     "price": 249,
     "source_url": "https://www.apple.com/shop/buy-airpods/airpods-5",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -447,7 +455,7 @@
     "department": "mobile",
     "price": 449,
     "source_url": "https://www.apple.com/shop/buy-ipad/ipad",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -466,7 +474,8 @@
     "icon": "",
     "aliases": [
       "iPad 128",
-      "iPad"
+      "iPad",
+      "iPad 128GB Wi-Fi"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -478,7 +487,7 @@
     "department": "computers",
     "price": 1099,
     "source_url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "launch_reference",
     "compare_at_price": null,
     "specs": {
@@ -498,7 +507,8 @@
     "icon": "",
     "aliases": [
       "MacBook Air 13",
-      "MacBook Air"
+      "MacBook Air",
+      "MacBook Air 13 M5"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -510,7 +520,7 @@
     "department": "computers",
     "price": 1299,
     "source_url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "launch_reference",
     "compare_at_price": null,
     "specs": {
@@ -528,7 +538,8 @@
     "stock_source": "local_demo",
     "icon": "",
     "aliases": [
-      "MacBook Air 15"
+      "MacBook Air 15",
+      "MacBook Air 15 M5"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -540,7 +551,7 @@
     "department": "computers",
     "price": 749.99,
     "source_url": "https://electronics.sony.com/tv-video/gaming-monitors/c/inzone-monitors",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": 949.99,
     "specs": {
@@ -571,7 +582,7 @@
     "department": "computers",
     "price": 899.99,
     "source_url": "https://electronics.sony.com/tv-video/gaming-monitors/c/inzone-monitors",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -600,7 +611,7 @@
     "department": "computers",
     "price": 1099.99,
     "source_url": "https://electronics.sony.com/tv-video/gaming-monitors/c/inzone-monitors",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -630,7 +641,7 @@
     "department": "photography",
     "price": 599.99,
     "source_url": "https://electronics.sony.com/imaging/compact-cameras/c/vlog-cameras",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -647,7 +658,8 @@
     "icon": "",
     "aliases": [
       "ZV1F",
-      "ZV 1F"
+      "ZV 1F",
+      "ZV-1F"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -659,7 +671,7 @@
     "department": "photography",
     "price": 999.99,
     "source_url": "https://electronics.sony.com/imaging/compact-cameras/c/vlog-cameras",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -676,7 +688,8 @@
     "icon": "",
     "aliases": [
       "ZV1 II",
-      "ZV 1 2"
+      "ZV 1 2",
+      "ZV-1 II"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -688,7 +701,7 @@
     "department": "photography",
     "price": 799.99,
     "source_url": "https://electronics.sony.com/imaging/compact-cameras/c/vlog-cameras",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -706,7 +719,8 @@
     "icon": "",
     "aliases": [
       "ZVE10",
-      "ZV E10"
+      "ZV E10",
+      "ZV-E10"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   },
@@ -718,7 +732,7 @@
     "department": "photography",
     "price": 1199.99,
     "source_url": "https://electronics.sony.com/imaging/compact-cameras/c/vlog-cameras",
-    "price_checked_at": "2026-09-24",
+    "price_checked_at": "2026-09-27",
     "price_kind": "snapshot",
     "compare_at_price": null,
     "specs": {
@@ -734,7 +748,2793 @@
     "icon": "",
     "aliases": [
       "ZVE10 II",
-      "ZV E10 2"
+      "ZV E10 2",
+      "ZV-E10 II"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-iphone-16e",
+    "name": "Apple iPhone 16e",
+    "brand": "Apple",
+    "category": "phones",
+    "department": "mobile",
+    "price": 599,
+    "source_url": "https://www.apple.com/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Storage": "128 GB",
+      "Display": "6.1-inch OLED"
+    },
+    "features": [
+      "portable",
+      "work",
+      "home"
+    ],
+    "description": "A smartphone that combines 128 GB with 6.1-inch OLED for everyday communication and apps.",
+    "tradeoff": "Confirm carrier support, storage needs, and preferred mobile operating system.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "iPhone 16e"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-iphone-16",
+    "name": "Apple iPhone 16",
+    "brand": "Apple",
+    "category": "phones",
+    "department": "mobile",
+    "price": 799,
+    "source_url": "https://www.apple.com/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Storage": "128 GB",
+      "Camera": "Dual-camera system"
+    },
+    "features": [
+      "portable",
+      "creator",
+      "work"
+    ],
+    "description": "A smartphone that combines 128 GB with Dual-camera system for everyday communication and apps.",
+    "tradeoff": "Confirm carrier support, storage needs, and preferred mobile operating system.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "iPhone 16"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "samsung-galaxy-s25",
+    "name": "Samsung Galaxy S25",
+    "brand": "Samsung",
+    "category": "phones",
+    "department": "mobile",
+    "price": 799,
+    "source_url": "https://www.samsung.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Storage": "128 GB",
+      "Display": "6.2-inch AMOLED"
+    },
+    "features": [
+      "portable",
+      "work",
+      "creator"
+    ],
+    "description": "A smartphone that combines 128 GB with 6.2-inch AMOLED for everyday communication and apps.",
+    "tradeoff": "Confirm carrier support, storage needs, and preferred mobile operating system.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Galaxy S25"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "samsung-galaxy-s25-ultra",
+    "name": "Samsung Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "category": "phones",
+    "department": "mobile",
+    "price": 1299,
+    "source_url": "https://www.samsung.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Storage": "256 GB",
+      "Pen": "Built-in S Pen"
+    },
+    "features": [
+      "portable",
+      "creator",
+      "work"
+    ],
+    "description": "A smartphone that combines 256 GB with Built-in S Pen for everyday communication and apps.",
+    "tradeoff": "Confirm carrier support, storage needs, and preferred mobile operating system.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Galaxy S25 Ultra"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "google-pixel-9",
+    "name": "Google Pixel 9",
+    "brand": "Google",
+    "category": "phones",
+    "department": "mobile",
+    "price": 799,
+    "source_url": "https://store.google.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Storage": "128 GB",
+      "Camera": "Dual rear camera"
+    },
+    "features": [
+      "portable",
+      "creator",
+      "work"
+    ],
+    "description": "A smartphone that combines 128 GB with Dual rear camera for everyday communication and apps.",
+    "tradeoff": "Confirm carrier support, storage needs, and preferred mobile operating system.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Pixel 9"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "oneplus-13",
+    "name": "OnePlus 13",
+    "brand": "OnePlus",
+    "category": "phones",
+    "department": "mobile",
+    "price": 899,
+    "source_url": "https://www.oneplus.com/us/store",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Storage": "256 GB",
+      "Battery": "6,000 mAh"
+    },
+    "features": [
+      "portable",
+      "long battery",
+      "work"
+    ],
+    "description": "A smartphone that combines 256 GB with 6,000 mAh for everyday communication and apps.",
+    "tradeoff": "Confirm carrier support, storage needs, and preferred mobile operating system.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "13"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "motorola-moto-g-power-2025",
+    "name": "Motorola Moto G Power 2025",
+    "brand": "Motorola",
+    "category": "phones",
+    "department": "mobile",
+    "price": 299,
+    "source_url": "https://www.motorola.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Storage": "128 GB",
+      "Battery": "5,000 mAh"
+    },
+    "features": [
+      "portable",
+      "long battery",
+      "home"
+    ],
+    "description": "A smartphone that combines 128 GB with 5,000 mAh for everyday communication and apps.",
+    "tradeoff": "Confirm carrier support, storage needs, and preferred mobile operating system.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Moto G Power 2025"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "nothing-phone-3a",
+    "name": "Nothing Phone 3a",
+    "brand": "Nothing",
+    "category": "phones",
+    "department": "mobile",
+    "price": 379,
+    "source_url": "https://us.nothing.tech/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Storage": "128 GB",
+      "Display": "6.77-inch AMOLED"
+    },
+    "features": [
+      "portable",
+      "home",
+      "work"
+    ],
+    "description": "A smartphone that combines 128 GB with 6.77-inch AMOLED for everyday communication and apps.",
+    "tradeoff": "Confirm carrier support, storage needs, and preferred mobile operating system.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Phone 3a"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-ipad-pro-11-m4",
+    "name": "Apple iPad Pro 11 M4",
+    "brand": "Apple",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 999,
+    "source_url": "https://www.apple.com/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Chip": "Apple M4",
+      "Display": "11-inch OLED"
+    },
+    "features": [
+      "portable",
+      "creator",
+      "work"
+    ],
+    "description": "A tablet with Apple M4 and 11-inch OLED for portable browsing, media, and light work.",
+    "tradeoff": "Keyboard, pen, and cellular capability may cost extra.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "iPad Pro 11 M4"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-ipad-air-11-m3",
+    "name": "Apple iPad Air 11 M3",
+    "brand": "Apple",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 599,
+    "source_url": "https://www.apple.com/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Chip": "Apple M3",
+      "Storage": "128 GB"
+    },
+    "features": [
+      "portable",
+      "school",
+      "work"
+    ],
+    "description": "A tablet with Apple M3 and 128 GB for portable browsing, media, and light work.",
+    "tradeoff": "Keyboard, pen, and cellular capability may cost extra.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "iPad Air 11 M3"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "samsung-galaxy-tab-s10-plus",
+    "name": "Samsung Galaxy Tab S10+",
+    "brand": "Samsung",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 999,
+    "source_url": "https://www.samsung.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "12.4-inch AMOLED",
+      "Storage": "256 GB"
+    },
+    "features": [
+      "portable",
+      "creator",
+      "work"
+    ],
+    "description": "A tablet with 12.4-inch AMOLED and 256 GB for portable browsing, media, and light work.",
+    "tradeoff": "Keyboard, pen, and cellular capability may cost extra.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Galaxy Tab S10+"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "google-pixel-tablet",
+    "name": "Google Pixel Tablet",
+    "brand": "Google",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 399,
+    "source_url": "https://store.google.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "11-inch",
+      "Storage": "128 GB"
+    },
+    "features": [
+      "portable",
+      "home",
+      "school"
+    ],
+    "description": "A tablet with 11-inch and 128 GB for portable browsing, media, and light work.",
+    "tradeoff": "Keyboard, pen, and cellular capability may cost extra.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Pixel Tablet"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "oneplus-pad-2",
+    "name": "OnePlus Pad 2",
+    "brand": "OnePlus",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 549,
+    "source_url": "https://www.oneplus.com/us/store",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "12.1-inch 144 Hz",
+      "Storage": "256 GB"
+    },
+    "features": [
+      "portable",
+      "school",
+      "work"
+    ],
+    "description": "A tablet with 12.1-inch 144 Hz and 256 GB for portable browsing, media, and light work.",
+    "tradeoff": "Keyboard, pen, and cellular capability may cost extra.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Pad 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "microsoft-surface-pro-11",
+    "name": "Microsoft Surface Pro 11",
+    "brand": "Microsoft",
+    "category": "tablets",
+    "department": "mobile",
+    "price": 999,
+    "source_url": "https://www.microsoft.com/en-us/store/b/surface",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "13-inch touchscreen",
+      "Memory": "16 GB"
+    },
+    "features": [
+      "portable",
+      "work",
+      "school"
+    ],
+    "description": "A tablet with 13-inch touchscreen and 16 GB for portable browsing, media, and light work.",
+    "tradeoff": "Keyboard, pen, and cellular capability may cost extra.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Surface Pro 11"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "dell-xps-13-9350",
+    "name": "Dell XPS 13 9350",
+    "brand": "Dell",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1399,
+    "source_url": "https://www.dell.com/en-us/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "13.4-inch",
+      "Memory": "16 GB"
+    },
+    "features": [
+      "portable",
+      "work",
+      "16gb ram"
+    ],
+    "description": "A laptop pairing 13.4-inch with 16 GB for work, school, or creative tasks.",
+    "tradeoff": "Confirm ports, operating-system compatibility, and sustained performance for your software.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "XPS 13 9350"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "lenovo-yoga-7i-14",
+    "name": "Lenovo Yoga 7i 14",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "department": "computers",
+    "price": 899,
+    "source_url": "https://www.lenovo.com/us/en/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "2-in-1 touchscreen",
+      "Memory": "16 GB"
+    },
+    "features": [
+      "portable",
+      "school",
+      "work",
+      "16gb ram"
+    ],
+    "description": "A laptop pairing 2-in-1 touchscreen with 16 GB for work, school, or creative tasks.",
+    "tradeoff": "Confirm ports, operating-system compatibility, and sustained performance for your software.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Yoga 7i 14"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "lenovo-thinkpad-x1-carbon-gen-13",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 13",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1699,
+    "source_url": "https://www.lenovo.com/us/en/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "14-inch",
+      "Weight": "Under 2.5 lb"
+    },
+    "features": [
+      "portable",
+      "work",
+      "long battery"
+    ],
+    "description": "A laptop pairing 14-inch with Under 2.5 lb for work, school, or creative tasks.",
+    "tradeoff": "Confirm ports, operating-system compatibility, and sustained performance for your software.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "ThinkPad X1 Carbon Gen 13"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "hp-spectre-x360-14",
+    "name": "HP Spectre x360 14",
+    "brand": "HP",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1499,
+    "source_url": "https://www.hp.com/us-en/shop/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "2-in-1 OLED",
+      "Memory": "16 GB"
+    },
+    "features": [
+      "portable",
+      "creator",
+      "work",
+      "16gb ram"
+    ],
+    "description": "A laptop pairing 2-in-1 OLED with 16 GB for work, school, or creative tasks.",
+    "tradeoff": "Confirm ports, operating-system compatibility, and sustained performance for your software.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Spectre x360 14"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "asus-zenbook-14-oled",
+    "name": "ASUS Zenbook 14 OLED",
+    "brand": "ASUS",
+    "category": "laptops",
+    "department": "computers",
+    "price": 999,
+    "source_url": "https://www.asus.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "14-inch OLED",
+      "Memory": "16 GB"
+    },
+    "features": [
+      "portable",
+      "work",
+      "16gb ram"
+    ],
+    "description": "A laptop pairing 14-inch OLED with 16 GB for work, school, or creative tasks.",
+    "tradeoff": "Confirm ports, operating-system compatibility, and sustained performance for your software.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Zenbook 14 OLED"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "asus-rog-zephyrus-g14",
+    "name": "ASUS ROG Zephyrus G14",
+    "brand": "ASUS",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1599,
+    "source_url": "https://www.asus.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Graphics": "Dedicated RTX graphics",
+      "Display": "14-inch 120 Hz OLED"
+    },
+    "features": [
+      "gaming",
+      "creator",
+      "portable",
+      "dedicated graphics"
+    ],
+    "description": "A laptop pairing Dedicated RTX graphics with 14-inch 120 Hz OLED for work, school, or creative tasks.",
+    "tradeoff": "Confirm ports, operating-system compatibility, and sustained performance for your software.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "ROG Zephyrus G14"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "acer-swift-go-14",
+    "name": "Acer Swift Go 14",
+    "brand": "Acer",
+    "category": "laptops",
+    "department": "computers",
+    "price": 799,
+    "source_url": "https://store.acer.com/en-us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "14-inch OLED",
+      "Memory": "16 GB"
+    },
+    "features": [
+      "portable",
+      "school",
+      "work",
+      "16gb ram"
+    ],
+    "description": "A laptop pairing 14-inch OLED with 16 GB for work, school, or creative tasks.",
+    "tradeoff": "Confirm ports, operating-system compatibility, and sustained performance for your software.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Swift Go 14"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "microsoft-surface-laptop-7",
+    "name": "Microsoft Surface Laptop 7",
+    "brand": "Microsoft",
+    "category": "laptops",
+    "department": "computers",
+    "price": 999,
+    "source_url": "https://www.microsoft.com/en-us/store/b/surface",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "13.8-inch touchscreen",
+      "Memory": "16 GB"
+    },
+    "features": [
+      "portable",
+      "work",
+      "long battery",
+      "16gb ram"
+    ],
+    "description": "A laptop pairing 13.8-inch touchscreen with 16 GB for work, school, or creative tasks.",
+    "tradeoff": "Confirm ports, operating-system compatibility, and sustained performance for your software.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Surface Laptop 7"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-macbook-pro-14-m4",
+    "name": "Apple MacBook Pro 14 M4",
+    "brand": "Apple",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1599,
+    "source_url": "https://www.apple.com/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Chip": "Apple M4",
+      "Memory": "16 GB"
+    },
+    "features": [
+      "creator",
+      "work",
+      "long battery",
+      "16gb ram"
+    ],
+    "description": "A laptop pairing Apple M4 with 16 GB for work, school, or creative tasks.",
+    "tradeoff": "Confirm ports, operating-system compatibility, and sustained performance for your software.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "MacBook Pro 14 M4"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "framework-laptop-13",
+    "name": "Framework Laptop 13",
+    "brand": "Framework",
+    "category": "laptops",
+    "department": "computers",
+    "price": 1099,
+    "source_url": "https://frame.work/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Repairable modular chassis",
+      "Memory": "16 GB"
+    },
+    "features": [
+      "work",
+      "school",
+      "portable",
+      "16gb ram"
+    ],
+    "description": "A laptop pairing Repairable modular chassis with 16 GB for work, school, or creative tasks.",
+    "tradeoff": "Confirm ports, operating-system compatibility, and sustained performance for your software.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Laptop 13"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "dell-ultrasharp-u2725qe",
+    "name": "Dell UltraSharp U2725QE",
+    "brand": "Dell",
+    "category": "monitors",
+    "department": "computers",
+    "price": 899,
+    "source_url": "https://www.dell.com/en-us/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "27-inch 4K",
+      "Connection": "Thunderbolt hub"
+    },
+    "features": [
+      "4k",
+      "work",
+      "creator"
+    ],
+    "description": "A desktop display with 27-inch 4K and Thunderbolt hub.",
+    "tradeoff": "Your computer must support the listed resolution and refresh rate.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "UltraSharp U2725QE"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "lg-ultragear-27gs95qe",
+    "name": "LG UltraGear 27GS95QE",
+    "brand": "LG",
+    "category": "monitors",
+    "department": "computers",
+    "price": 899,
+    "source_url": "https://www.lg.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "27-inch OLED",
+      "Refresh": "240 Hz"
+    },
+    "features": [
+      "oled",
+      "gaming"
+    ],
+    "description": "A desktop display with 27-inch OLED and 240 Hz.",
+    "tradeoff": "Your computer must support the listed resolution and refresh rate.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "UltraGear 27GS95QE"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "samsung-odyssey-oled-g8-32",
+    "name": "Samsung Odyssey OLED G8 32",
+    "brand": "Samsung",
+    "category": "monitors",
+    "department": "computers",
+    "price": 1299,
+    "source_url": "https://www.samsung.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "32-inch 4K OLED",
+      "Refresh": "240 Hz"
+    },
+    "features": [
+      "4k",
+      "oled",
+      "gaming"
+    ],
+    "description": "A desktop display with 32-inch 4K OLED and 240 Hz.",
+    "tradeoff": "Your computer must support the listed resolution and refresh rate.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Odyssey OLED G8 32"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "asus-proart-pa278cgv",
+    "name": "ASUS ProArt PA278CGV",
+    "brand": "ASUS",
+    "category": "monitors",
+    "department": "computers",
+    "price": 349,
+    "source_url": "https://www.asus.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "27-inch QHD",
+      "Color": "Factory calibrated"
+    },
+    "features": [
+      "creator",
+      "work"
+    ],
+    "description": "A desktop display with 27-inch QHD and Factory calibrated.",
+    "tradeoff": "Your computer must support the listed resolution and refresh rate.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "ProArt PA278CGV"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "alienware-aw3225qf",
+    "name": "Dell Alienware AW3225QF",
+    "brand": "Dell",
+    "category": "monitors",
+    "department": "computers",
+    "price": 1199,
+    "source_url": "https://www.dell.com/en-us/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "32-inch 4K QD-OLED",
+      "Refresh": "240 Hz"
+    },
+    "features": [
+      "4k",
+      "oled",
+      "gaming"
+    ],
+    "description": "A desktop display with 32-inch 4K QD-OLED and 240 Hz.",
+    "tradeoff": "Your computer must support the listed resolution and refresh rate.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Alienware AW3225QF"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "acer-nitro-xv275k",
+    "name": "Acer Nitro XV275K",
+    "brand": "Acer",
+    "category": "monitors",
+    "department": "computers",
+    "price": 599,
+    "source_url": "https://store.acer.com/en-us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "27-inch 4K",
+      "Refresh": "160 Hz"
+    },
+    "features": [
+      "4k",
+      "gaming",
+      "work"
+    ],
+    "description": "A desktop display with 27-inch 4K and 160 Hz.",
+    "tradeoff": "Your computer must support the listed resolution and refresh rate.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Nitro XV275K"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "benq-pd3225u",
+    "name": "BenQ PD3225U",
+    "brand": "BenQ",
+    "category": "monitors",
+    "department": "computers",
+    "price": 1099,
+    "source_url": "https://www.benq.com/en-us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "32-inch 4K",
+      "Color": "P3 wide gamut"
+    },
+    "features": [
+      "4k",
+      "creator",
+      "work"
+    ],
+    "description": "A desktop display with 32-inch 4K and P3 wide gamut.",
+    "tradeoff": "Your computer must support the listed resolution and refresh rate.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "PD3225U"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "msi-mag-271qpx",
+    "name": "MSI MAG 271QPX QD-OLED",
+    "brand": "MSI",
+    "category": "monitors",
+    "department": "computers",
+    "price": 749,
+    "source_url": "https://us.msi.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "27-inch QHD OLED",
+      "Refresh": "360 Hz"
+    },
+    "features": [
+      "oled",
+      "gaming"
+    ],
+    "description": "A desktop display with 27-inch QHD OLED and 360 Hz.",
+    "tradeoff": "Your computer must support the listed resolution and refresh rate.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "MAG 271QPX QD-OLED"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "bose-qc-ultra-headphones",
+    "name": "Bose QuietComfort Ultra Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "department": "audio",
+    "price": 429,
+    "source_url": "https://www.bose.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Listening": "Active noise cancellation",
+      "Battery": "Up to 24 hours"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "travel",
+      "music"
+    ],
+    "description": "Over-ear listening with Active noise cancellation and Up to 24 hours.",
+    "tradeoff": "Comfort, microphone quality, and sound tuning are personal preferences.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "QuietComfort Ultra Headphones"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "bose-quietcomfort-headphones",
+    "name": "Bose QuietComfort Headphones",
+    "brand": "Bose",
+    "category": "headphones",
+    "department": "audio",
+    "price": 349,
+    "source_url": "https://www.bose.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Listening": "Active noise cancellation",
+      "Battery": "Up to 24 hours"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "travel",
+      "music"
+    ],
+    "description": "Over-ear listening with Active noise cancellation and Up to 24 hours.",
+    "tradeoff": "Comfort, microphone quality, and sound tuning are personal preferences.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "QuietComfort Headphones"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-airpods-max-usbc",
+    "name": "Apple AirPods Max USB-C",
+    "brand": "Apple",
+    "category": "headphones",
+    "department": "audio",
+    "price": 549,
+    "source_url": "https://www.apple.com/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Listening": "Active noise cancellation",
+      "Connection": "USB-C"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "music"
+    ],
+    "description": "Over-ear listening with Active noise cancellation and USB-C.",
+    "tradeoff": "Comfort, microphone quality, and sound tuning are personal preferences.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "AirPods Max USB-C"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sennheiser-momentum-4",
+    "name": "Sennheiser Momentum 4 Wireless",
+    "brand": "Sennheiser",
+    "category": "headphones",
+    "department": "audio",
+    "price": 349,
+    "source_url": "https://www.sennheiser-hearing.com/en-US/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Battery": "Up to 60 hours",
+      "Listening": "Adaptive noise cancellation"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "long battery",
+      "music"
+    ],
+    "description": "Over-ear listening with Up to 60 hours and Adaptive noise cancellation.",
+    "tradeoff": "Comfort, microphone quality, and sound tuning are personal preferences.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Momentum 4 Wireless"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "beats-studio-pro",
+    "name": "Beats Studio Pro",
+    "brand": "Beats",
+    "category": "headphones",
+    "department": "audio",
+    "price": 349,
+    "source_url": "https://www.beatsbydre.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Listening": "Active noise cancellation",
+      "Connection": "USB-C and Bluetooth"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "music"
+    ],
+    "description": "Over-ear listening with Active noise cancellation and USB-C and Bluetooth.",
+    "tradeoff": "Comfort, microphone quality, and sound tuning are personal preferences.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Studio Pro"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "audio-technica-ath-m50xbt2",
+    "name": "Audio-Technica ATH-M50xBT2",
+    "brand": "Audio-Technica",
+    "category": "headphones",
+    "department": "audio",
+    "price": 199,
+    "source_url": "https://www.audio-technica.com/en-us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Closed-back wireless",
+      "Battery": "Up to 50 hours"
+    },
+    "features": [
+      "wireless",
+      "long battery",
+      "studio",
+      "music"
+    ],
+    "description": "Over-ear listening with Closed-back wireless and Up to 50 hours.",
+    "tradeoff": "Comfort, microphone quality, and sound tuning are personal preferences.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "ATH-M50xBT2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-airpods-4",
+    "name": "Apple AirPods 4",
+    "brand": "Apple",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 129,
+    "source_url": "https://www.apple.com/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Open fit",
+      "Case": "USB-C charging"
+    },
+    "features": [
+      "wireless",
+      "portable",
+      "music"
+    ],
+    "description": "Compact earphones offering Open fit and USB-C charging.",
+    "tradeoff": "A secure seal and comfortable ear-tip fit vary by listener.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "AirPods 4"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-airpods-pro-2",
+    "name": "Apple AirPods Pro 2",
+    "brand": "Apple",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 249,
+    "source_url": "https://www.apple.com/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Listening": "Active noise cancellation",
+      "Case": "MagSafe USB-C"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "portable",
+      "music"
+    ],
+    "description": "Compact earphones offering Active noise cancellation and MagSafe USB-C.",
+    "tradeoff": "A secure seal and comfortable ear-tip fit vary by listener.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "AirPods Pro 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "bose-qc-ultra-earbuds",
+    "name": "Bose QuietComfort Ultra Earbuds",
+    "brand": "Bose",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 299,
+    "source_url": "https://www.bose.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Listening": "Active noise cancellation",
+      "Audio": "Immersive mode"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "portable",
+      "music"
+    ],
+    "description": "Compact earphones offering Active noise cancellation and Immersive mode.",
+    "tradeoff": "A secure seal and comfortable ear-tip fit vary by listener.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "QuietComfort Ultra Earbuds"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "samsung-galaxy-buds3-pro",
+    "name": "Samsung Galaxy Buds3 Pro",
+    "brand": "Samsung",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 249,
+    "source_url": "https://www.samsung.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Listening": "Active noise cancellation",
+      "Design": "In-ear"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "portable",
+      "music"
+    ],
+    "description": "Compact earphones offering Active noise cancellation and In-ear.",
+    "tradeoff": "A secure seal and comfortable ear-tip fit vary by listener.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Galaxy Buds3 Pro"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "google-pixel-buds-pro-2",
+    "name": "Google Pixel Buds Pro 2",
+    "brand": "Google",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 229,
+    "source_url": "https://store.google.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Listening": "Active noise cancellation",
+      "Design": "In-ear stabilizer"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "portable",
+      "music"
+    ],
+    "description": "Compact earphones offering Active noise cancellation and In-ear stabilizer.",
+    "tradeoff": "A secure seal and comfortable ear-tip fit vary by listener.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Pixel Buds Pro 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "jabra-elite-8-active-gen-2",
+    "name": "Jabra Elite 8 Active Gen 2",
+    "brand": "Jabra",
+    "category": "earbuds",
+    "department": "audio",
+    "price": 229,
+    "source_url": "https://www.jabra.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Durability": "Workout-focused",
+      "Listening": "Active noise cancellation"
+    },
+    "features": [
+      "wireless",
+      "noise cancelling",
+      "water resistant",
+      "running"
+    ],
+    "description": "Compact earphones offering Workout-focused and Active noise cancellation.",
+    "tradeoff": "A secure seal and comfortable ear-tip fit vary by listener.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Elite 8 Active Gen 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "jbl-flip-7",
+    "name": "JBL Flip 7",
+    "brand": "JBL",
+    "category": "speakers",
+    "department": "audio",
+    "price": 149,
+    "source_url": "https://www.jbl.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Portable cylinder",
+      "Protection": "Water and dust resistant"
+    },
+    "features": [
+      "wireless",
+      "portable",
+      "water resistant",
+      "music"
+    ],
+    "description": "A wireless speaker with Portable cylinder and Water and dust resistant for shared listening.",
+    "tradeoff": "Room size and placement strongly affect bass and clarity.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Flip 7"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "jbl-charge-6",
+    "name": "JBL Charge 6",
+    "brand": "JBL",
+    "category": "speakers",
+    "department": "audio",
+    "price": 199,
+    "source_url": "https://www.jbl.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Battery": "Up to 28 hours",
+      "Feature": "Phone charging output"
+    },
+    "features": [
+      "wireless",
+      "portable",
+      "long battery",
+      "music"
+    ],
+    "description": "A wireless speaker with Up to 28 hours and Phone charging output for shared listening.",
+    "tradeoff": "Room size and placement strongly affect bass and clarity.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Charge 6"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "bose-soundlink-flex-2",
+    "name": "Bose SoundLink Flex 2",
+    "brand": "Bose",
+    "category": "speakers",
+    "department": "audio",
+    "price": 149,
+    "source_url": "https://www.bose.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Portable Bluetooth",
+      "Protection": "Water resistant"
+    },
+    "features": [
+      "wireless",
+      "portable",
+      "water resistant",
+      "music"
+    ],
+    "description": "A wireless speaker with Portable Bluetooth and Water resistant for shared listening.",
+    "tradeoff": "Room size and placement strongly affect bass and clarity.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "SoundLink Flex 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "ue-wonderboom-4",
+    "name": "Ultimate Ears WONDERBOOM 4",
+    "brand": "Ultimate",
+    "category": "speakers",
+    "department": "audio",
+    "price": 99,
+    "source_url": "https://www.ultimateears.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Compact 360-degree",
+      "Protection": "Waterproof and floating"
+    },
+    "features": [
+      "wireless",
+      "portable",
+      "water resistant",
+      "music"
+    ],
+    "description": "A wireless speaker with Compact 360-degree and Waterproof and floating for shared listening.",
+    "tradeoff": "Room size and placement strongly affect bass and clarity.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Ears WONDERBOOM 4"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sonos-era-100",
+    "name": "Sonos Era 100",
+    "brand": "Sonos",
+    "category": "speakers",
+    "department": "audio",
+    "price": 249,
+    "source_url": "https://www.sonos.com/en-us/home",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Connection": "Wi-Fi and Bluetooth",
+      "Design": "Room speaker"
+    },
+    "features": [
+      "wireless",
+      "home",
+      "music"
+    ],
+    "description": "A wireless speaker with Wi-Fi and Bluetooth and Room speaker for shared listening.",
+    "tradeoff": "Room size and placement strongly affect bass and clarity.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Era 100"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "marshall-emberton-iii",
+    "name": "Marshall Emberton III",
+    "brand": "Marshall",
+    "category": "speakers",
+    "department": "audio",
+    "price": 169,
+    "source_url": "https://www.marshall.com/us/en",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Battery": "Over 30 hours",
+      "Protection": "Water resistant"
+    },
+    "features": [
+      "wireless",
+      "portable",
+      "long battery",
+      "music"
+    ],
+    "description": "A wireless speaker with Over 30 hours and Water resistant for shared listening.",
+    "tradeoff": "Room size and placement strongly affect bass and clarity.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Emberton III"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "lg-oled-c4-55",
+    "name": "LG OLED C4 55",
+    "brand": "LG",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 1499,
+    "source_url": "https://www.lg.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Panel": "55-inch OLED",
+      "Refresh": "120 Hz"
+    },
+    "features": [
+      "4k",
+      "oled",
+      "120hz",
+      "gaming",
+      "movies"
+    ],
+    "description": "A television combining 55-inch OLED with 120 Hz for movies, sports, and games.",
+    "tradeoff": "Measure the room and verify HDMI features before choosing a size.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "OLED C4 55"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "lg-oled-b4-55",
+    "name": "LG OLED B4 55",
+    "brand": "LG",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 1199,
+    "source_url": "https://www.lg.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Panel": "55-inch OLED",
+      "Refresh": "120 Hz"
+    },
+    "features": [
+      "4k",
+      "oled",
+      "120hz",
+      "gaming",
+      "movies"
+    ],
+    "description": "A television combining 55-inch OLED with 120 Hz for movies, sports, and games.",
+    "tradeoff": "Measure the room and verify HDMI features before choosing a size.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "OLED B4 55"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "samsung-s90d-55",
+    "name": "Samsung S90D OLED 55",
+    "brand": "Samsung",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 1599,
+    "source_url": "https://www.samsung.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Panel": "55-inch OLED",
+      "Refresh": "144 Hz"
+    },
+    "features": [
+      "4k",
+      "oled",
+      "144hz",
+      "gaming",
+      "movies"
+    ],
+    "description": "A television combining 55-inch OLED with 144 Hz for movies, sports, and games.",
+    "tradeoff": "Measure the room and verify HDMI features before choosing a size.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "S90D OLED 55"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "samsung-qn90d-55",
+    "name": "Samsung QN90D Neo QLED 55",
+    "brand": "Samsung",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 1699,
+    "source_url": "https://www.samsung.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Panel": "55-inch Mini LED",
+      "Refresh": "144 Hz"
+    },
+    "features": [
+      "4k",
+      "144hz",
+      "gaming",
+      "movies",
+      "bright room"
+    ],
+    "description": "A television combining 55-inch Mini LED with 144 Hz for movies, sports, and games.",
+    "tradeoff": "Measure the room and verify HDMI features before choosing a size.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "QN90D Neo QLED 55"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-bravia-8-55",
+    "name": "Sony BRAVIA 8 OLED 55",
+    "brand": "Sony",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 1799,
+    "source_url": "https://electronics.sony.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Panel": "55-inch OLED",
+      "Audio": "Acoustic Surface"
+    },
+    "features": [
+      "4k",
+      "oled",
+      "120hz",
+      "movies",
+      "gaming"
+    ],
+    "description": "A television combining 55-inch OLED with Acoustic Surface for movies, sports, and games.",
+    "tradeoff": "Measure the room and verify HDMI features before choosing a size.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "BRAVIA 8 OLED 55"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "tcl-qm8-65",
+    "name": "TCL QM8 65",
+    "brand": "TCL",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 1499,
+    "source_url": "https://www.tcl.com/us/en",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Panel": "65-inch Mini LED",
+      "Refresh": "144 Hz"
+    },
+    "features": [
+      "4k",
+      "144hz",
+      "bright room",
+      "gaming",
+      "movies"
+    ],
+    "description": "A television combining 65-inch Mini LED with 144 Hz for movies, sports, and games.",
+    "tradeoff": "Measure the room and verify HDMI features before choosing a size.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "QM8 65"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "hisense-u8n-65",
+    "name": "Hisense U8N 65",
+    "brand": "Hisense",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 1299,
+    "source_url": "https://www.hisense-usa.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Panel": "65-inch Mini LED",
+      "Refresh": "144 Hz"
+    },
+    "features": [
+      "4k",
+      "144hz",
+      "bright room",
+      "gaming",
+      "movies"
+    ],
+    "description": "A television combining 65-inch Mini LED with 144 Hz for movies, sports, and games.",
+    "tradeoff": "Measure the room and verify HDMI features before choosing a size.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "U8N 65"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "roku-pro-series-65",
+    "name": "Roku Pro Series 65",
+    "brand": "Roku",
+    "category": "tvs",
+    "department": "home theater",
+    "price": 1199,
+    "source_url": "https://www.roku.com/products/roku-tv",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Panel": "65-inch Mini LED",
+      "Platform": "Roku TV"
+    },
+    "features": [
+      "4k",
+      "120hz",
+      "movies",
+      "home"
+    ],
+    "description": "A television combining 65-inch Mini LED with Roku TV for movies, sports, and games.",
+    "tradeoff": "Measure the room and verify HDMI features before choosing a size.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Pro Series 65"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "canon-eos-r50",
+    "name": "Canon EOS R50",
+    "brand": "Canon",
+    "category": "cameras",
+    "department": "photography",
+    "price": 679,
+    "source_url": "https://www.usa.canon.com/shop/cameras",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Sensor": "24 MP APS-C",
+      "Video": "4K 30p"
+    },
+    "features": [
+      "creator",
+      "4k",
+      "portable"
+    ],
+    "description": "A camera built around 24 MP APS-C and 4K 30p for photos and video.",
+    "tradeoff": "Lenses, cards, batteries, and stabilization needs can raise the total cost.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "EOS R50"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "canon-eos-r8",
+    "name": "Canon EOS R8",
+    "brand": "Canon",
+    "category": "cameras",
+    "department": "photography",
+    "price": 1499,
+    "source_url": "https://www.usa.canon.com/shop/cameras",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Sensor": "24 MP full frame",
+      "Video": "4K 60p"
+    },
+    "features": [
+      "creator",
+      "4k"
+    ],
+    "description": "A camera built around 24 MP full frame and 4K 60p for photos and video.",
+    "tradeoff": "Lenses, cards, batteries, and stabilization needs can raise the total cost.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "EOS R8"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "nikon-z50-ii",
+    "name": "Nikon Z50 II",
+    "brand": "Nikon",
+    "category": "cameras",
+    "department": "photography",
+    "price": 909,
+    "source_url": "https://www.nikonusa.com/cameras",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Sensor": "21 MP APS-C",
+      "Video": "4K 60p"
+    },
+    "features": [
+      "creator",
+      "4k",
+      "portable"
+    ],
+    "description": "A camera built around 21 MP APS-C and 4K 60p for photos and video.",
+    "tradeoff": "Lenses, cards, batteries, and stabilization needs can raise the total cost.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Z50 II"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "nikon-z6-iii",
+    "name": "Nikon Z6 III",
+    "brand": "Nikon",
+    "category": "cameras",
+    "department": "photography",
+    "price": 2499,
+    "source_url": "https://www.nikonusa.com/cameras",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Sensor": "24 MP full frame",
+      "Stabilization": "In-body"
+    },
+    "features": [
+      "creator",
+      "4k"
+    ],
+    "description": "A camera built around 24 MP full frame and In-body for photos and video.",
+    "tradeoff": "Lenses, cards, batteries, and stabilization needs can raise the total cost.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Z6 III"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "fujifilm-xs20",
+    "name": "Fujifilm X-S20",
+    "brand": "Fujifilm",
+    "category": "cameras",
+    "department": "photography",
+    "price": 1299,
+    "source_url": "https://www.fujifilm-x.com/en-us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Sensor": "26 MP APS-C",
+      "Stabilization": "In-body"
+    },
+    "features": [
+      "creator",
+      "4k",
+      "portable"
+    ],
+    "description": "A camera built around 26 MP APS-C and In-body for photos and video.",
+    "tradeoff": "Lenses, cards, batteries, and stabilization needs can raise the total cost.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "X-S20"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "gopro-hero13-black",
+    "name": "GoPro HERO13 Black",
+    "brand": "GoPro",
+    "category": "cameras",
+    "department": "photography",
+    "price": 399,
+    "source_url": "https://gopro.com/en/us/shop/cameras",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Video": "5.3K action video",
+      "Protection": "Waterproof body"
+    },
+    "features": [
+      "creator",
+      "portable",
+      "water resistant"
+    ],
+    "description": "A camera built around 5.3K action video and Waterproof body for photos and video.",
+    "tradeoff": "Lenses, cards, batteries, and stabilization needs can raise the total cost.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "HERO13 Black"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "sony-playstation-5-slim",
+    "name": "Sony PlayStation 5 Slim",
+    "brand": "Sony",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 499,
+    "source_url": "https://direct.playstation.com/en-us/hardware/ps5",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Output": "4K gaming",
+      "Drive": "Ultra HD Blu-ray"
+    },
+    "features": [
+      "gaming",
+      "4k",
+      "home"
+    ],
+    "description": "A gaming system with 4K gaming and Ultra HD Blu-ray.",
+    "tradeoff": "Game library, subscriptions, storage, and display requirements differ by platform.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "PlayStation 5 Slim"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "microsoft-xbox-series-x",
+    "name": "Microsoft Xbox Series X",
+    "brand": "Microsoft",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 599,
+    "source_url": "https://www.xbox.com/en-US/consoles",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Output": "4K gaming",
+      "Storage": "1 TB SSD"
+    },
+    "features": [
+      "gaming",
+      "4k",
+      "1tb storage",
+      "home"
+    ],
+    "description": "A gaming system with 4K gaming and 1 TB SSD.",
+    "tradeoff": "Game library, subscriptions, storage, and display requirements differ by platform.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Xbox Series X"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "nintendo-switch-oled",
+    "name": "Nintendo Switch OLED",
+    "brand": "Nintendo",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 349,
+    "source_url": "https://www.nintendo.com/us/gaming-systems/switch/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "7-inch OLED",
+      "Modes": "Handheld and docked"
+    },
+    "features": [
+      "gaming",
+      "oled",
+      "portable",
+      "family"
+    ],
+    "description": "A gaming system with 7-inch OLED and Handheld and docked.",
+    "tradeoff": "Game library, subscriptions, storage, and display requirements differ by platform.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Switch OLED"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "valve-steam-deck-oled-512",
+    "name": "Valve Steam Deck OLED 512GB",
+    "brand": "Valve",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 549,
+    "source_url": "https://store.steampowered.com/steamdeck",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "7.4-inch OLED",
+      "Storage": "512 GB"
+    },
+    "features": [
+      "gaming",
+      "oled",
+      "portable"
+    ],
+    "description": "A gaming system with 7.4-inch OLED and 512 GB.",
+    "tradeoff": "Game library, subscriptions, storage, and display requirements differ by platform.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Steam Deck OLED 512GB"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "asus-rog-ally-x",
+    "name": "ASUS ROG Ally X",
+    "brand": "ASUS",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 799,
+    "source_url": "https://www.asus.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "7-inch 120 Hz",
+      "Storage": "1 TB SSD"
+    },
+    "features": [
+      "gaming",
+      "portable",
+      "1tb storage"
+    ],
+    "description": "A gaming system with 7-inch 120 Hz and 1 TB SSD.",
+    "tradeoff": "Game library, subscriptions, storage, and display requirements differ by platform.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "ROG Ally X"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "meta-quest-3-512",
+    "name": "Meta Quest 3 512GB",
+    "brand": "Meta",
+    "category": "gaming",
+    "department": "gaming",
+    "price": 499,
+    "source_url": "https://www.meta.com/quest/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Standalone VR",
+      "Storage": "512 GB"
+    },
+    "features": [
+      "gaming",
+      "portable",
+      "home"
+    ],
+    "description": "A gaming system with Standalone VR and 512 GB.",
+    "tradeoff": "Game library, subscriptions, storage, and display requirements differ by platform.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Quest 3 512GB"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-watch-series-10",
+    "name": "Apple Watch Series 10",
+    "brand": "Apple",
+    "category": "wearables",
+    "department": "mobile",
+    "price": 399,
+    "source_url": "https://www.apple.com/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "Always-on OLED",
+      "Size": "42 mm"
+    },
+    "features": [
+      "portable",
+      "work",
+      "running"
+    ],
+    "description": "A wearable with Always-on OLED and 42 mm for daily activity and notifications.",
+    "tradeoff": "Battery life and health features vary with settings and phone compatibility.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Watch Series 10"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "apple-watch-ultra-2",
+    "name": "Apple Watch Ultra 2",
+    "brand": "Apple",
+    "category": "wearables",
+    "department": "mobile",
+    "price": 799,
+    "source_url": "https://www.apple.com/shop",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Case": "49 mm titanium",
+      "GPS": "Dual frequency"
+    },
+    "features": [
+      "portable",
+      "running",
+      "long battery"
+    ],
+    "description": "A wearable with 49 mm titanium and Dual frequency for daily activity and notifications.",
+    "tradeoff": "Battery life and health features vary with settings and phone compatibility.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Watch Ultra 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "samsung-galaxy-watch7",
+    "name": "Samsung Galaxy Watch7",
+    "brand": "Samsung",
+    "category": "wearables",
+    "department": "mobile",
+    "price": 299,
+    "source_url": "https://www.samsung.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "AMOLED",
+      "GPS": "Dual frequency"
+    },
+    "features": [
+      "portable",
+      "running",
+      "home"
+    ],
+    "description": "A wearable with AMOLED and Dual frequency for daily activity and notifications.",
+    "tradeoff": "Battery life and health features vary with settings and phone compatibility.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Galaxy Watch7"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "google-pixel-watch-3",
+    "name": "Google Pixel Watch 3",
+    "brand": "Google",
+    "category": "wearables",
+    "department": "mobile",
+    "price": 349,
+    "source_url": "https://store.google.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "Actua AMOLED",
+      "Size": "41 mm"
+    },
+    "features": [
+      "portable",
+      "running",
+      "home"
+    ],
+    "description": "A wearable with Actua AMOLED and 41 mm for daily activity and notifications.",
+    "tradeoff": "Battery life and health features vary with settings and phone compatibility.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Pixel Watch 3"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "garmin-forerunner-265",
+    "name": "Garmin Forerunner 265",
+    "brand": "Garmin",
+    "category": "wearables",
+    "department": "mobile",
+    "price": 449,
+    "source_url": "https://www.garmin.com/en-US/c/wearables-smartwatches/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "AMOLED",
+      "GPS": "Multi-band"
+    },
+    "features": [
+      "portable",
+      "running",
+      "long battery"
+    ],
+    "description": "A wearable with AMOLED and Multi-band for daily activity and notifications.",
+    "tradeoff": "Battery life and health features vary with settings and phone compatibility.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Forerunner 265"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "fitbit-charge-6",
+    "name": "Fitbit Charge 6",
+    "brand": "Fitbit",
+    "category": "wearables",
+    "department": "mobile",
+    "price": 159,
+    "source_url": "https://store.google.com/category/watches_trackers",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Design": "Fitness tracker",
+      "GPS": "Built-in"
+    },
+    "features": [
+      "portable",
+      "running",
+      "long battery"
+    ],
+    "description": "A wearable with Fitness tracker and Built-in for daily activity and notifications.",
+    "tradeoff": "Battery life and health features vary with settings and phone compatibility.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Charge 6"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "logitech-mx-master-3s",
+    "name": "Logitech MX Master 3S",
+    "brand": "Logitech",
+    "category": "accessories",
+    "department": "computers",
+    "price": 99,
+    "source_url": "https://www.logitech.com/en-us/products.html",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Type": "Wireless ergonomic mouse",
+      "Connection": "Bluetooth or receiver"
+    },
+    "features": [
+      "wireless",
+      "work"
+    ],
+    "description": "A practical accessory featuring Wireless ergonomic mouse and Bluetooth or receiver.",
+    "tradeoff": "Check connector, operating-system, and device compatibility.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "MX Master 3S"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "logitech-mx-keys-s",
+    "name": "Logitech MX Keys S",
+    "brand": "Logitech",
+    "category": "accessories",
+    "department": "computers",
+    "price": 109,
+    "source_url": "https://www.logitech.com/en-us/products.html",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Type": "Low-profile keyboard",
+      "Connection": "Bluetooth or receiver"
+    },
+    "features": [
+      "wireless",
+      "work"
+    ],
+    "description": "A practical accessory featuring Low-profile keyboard and Bluetooth or receiver.",
+    "tradeoff": "Check connector, operating-system, and device compatibility.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "MX Keys S"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "samsung-t7-shield-2tb",
+    "name": "Samsung T7 Shield 2TB",
+    "brand": "Samsung",
+    "category": "accessories",
+    "department": "computers",
+    "price": 179,
+    "source_url": "https://www.samsung.com/us/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Type": "Portable SSD",
+      "Capacity": "2 TB"
+    },
+    "features": [
+      "portable",
+      "work"
+    ],
+    "description": "A practical accessory featuring Portable SSD and 2 TB.",
+    "tradeoff": "Check connector, operating-system, and device compatibility.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "T7 Shield 2TB"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "anker-737-power-bank",
+    "name": "Anker 737 Power Bank",
+    "brand": "Anker",
+    "category": "accessories",
+    "department": "computers",
+    "price": 149,
+    "source_url": "https://www.anker.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Capacity": "24,000 mAh",
+      "Output": "140 W USB-C"
+    },
+    "features": [
+      "portable",
+      "travel"
+    ],
+    "description": "A practical accessory featuring 24,000 mAh and 140 W USB-C.",
+    "tradeoff": "Check connector, operating-system, and device compatibility.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "737 Power Bank"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "google-nest-wifi-pro",
+    "name": "Google Nest Wifi Pro",
+    "brand": "Google",
+    "category": "networking",
+    "department": "smart home",
+    "price": 199,
+    "source_url": "https://store.google.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Standard": "Wi-Fi 6E",
+      "Coverage": "Up to 2,200 sq ft"
+    },
+    "features": [
+      "wireless",
+      "home",
+      "smart home"
+    ],
+    "description": "Home networking hardware with Wi-Fi 6E and Up to 2,200 sq ft.",
+    "tradeoff": "Coverage depends on layout, interference, internet service, and device support.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Nest Wifi Pro"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "amazon-eero-6-plus",
+    "name": "Amazon eero 6+",
+    "brand": "Amazon",
+    "category": "networking",
+    "department": "smart home",
+    "price": 139,
+    "source_url": "https://www.amazon.com/echoshow",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Standard": "Wi-Fi 6",
+      "Coverage": "Up to 1,500 sq ft"
+    },
+    "features": [
+      "wireless",
+      "home",
+      "smart home"
+    ],
+    "description": "Home networking hardware with Wi-Fi 6 and Up to 1,500 sq ft.",
+    "tradeoff": "Coverage depends on layout, interference, internet service, and device support.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "eero 6+"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "tp-link-deco-be63",
+    "name": "TP-Link Deco BE63",
+    "brand": "TP-Link",
+    "category": "networking",
+    "department": "smart home",
+    "price": 549,
+    "source_url": "https://www.tp-link.com/us/home-networking/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Standard": "Wi-Fi 7 mesh",
+      "Pack": "Three nodes"
+    },
+    "features": [
+      "wireless",
+      "home",
+      "smart home"
+    ],
+    "description": "Home networking hardware with Wi-Fi 7 mesh and Three nodes.",
+    "tradeoff": "Coverage depends on layout, interference, internet service, and device support.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Deco BE63"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "netgear-nighthawk-rs300",
+    "name": "NETGEAR Nighthawk RS300",
+    "brand": "NETGEAR",
+    "category": "networking",
+    "department": "smart home",
+    "price": 329,
+    "source_url": "https://www.netgear.com/home/wifi/routers/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Standard": "Wi-Fi 7",
+      "Bands": "Tri-band"
+    },
+    "features": [
+      "wireless",
+      "home",
+      "smart home"
+    ],
+    "description": "Home networking hardware with Wi-Fi 7 and Tri-band.",
+    "tradeoff": "Coverage depends on layout, interference, internet service, and device support.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Nighthawk RS300"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "google-nest-doorbell-wired-2",
+    "name": "Google Nest Doorbell Wired 2",
+    "brand": "Google",
+    "category": "smart home",
+    "department": "smart home",
+    "price": 179,
+    "source_url": "https://store.google.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Video": "HDR video",
+      "Power": "Wired"
+    },
+    "features": [
+      "smart home",
+      "security",
+      "home"
+    ],
+    "description": "A connected-home device with HDR video and Wired.",
+    "tradeoff": "Some features require an account, compatible ecosystem, or subscription.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Nest Doorbell Wired 2"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "ring-battery-doorbell-pro",
+    "name": "Ring Battery Doorbell Pro",
+    "brand": "Ring",
+    "category": "smart home",
+    "department": "smart home",
+    "price": 229,
+    "source_url": "https://ring.com/collections/video-doorbells",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Power": "Rechargeable battery",
+      "Detection": "3D motion"
+    },
+    "features": [
+      "smart home",
+      "security",
+      "home"
+    ],
+    "description": "A connected-home device with Rechargeable battery and 3D motion.",
+    "tradeoff": "Some features require an account, compatible ecosystem, or subscription.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Battery Doorbell Pro"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "amazon-echo-show-8-3",
+    "name": "Amazon Echo Show 8 3rd Gen",
+    "brand": "Amazon",
+    "category": "smart home",
+    "department": "smart home",
+    "price": 149,
+    "source_url": "https://www.amazon.com/echoshow",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "8-inch touchscreen",
+      "Audio": "Spatial audio"
+    },
+    "features": [
+      "smart home",
+      "home",
+      "music"
+    ],
+    "description": "A connected-home device with 8-inch touchscreen and Spatial audio.",
+    "tradeoff": "Some features require an account, compatible ecosystem, or subscription.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Echo Show 8 3rd Gen"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "google-nest-hub-max",
+    "name": "Google Nest Hub Max",
+    "brand": "Google",
+    "category": "smart home",
+    "department": "smart home",
+    "price": 229,
+    "source_url": "https://store.google.com/",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Display": "10-inch touchscreen",
+      "Camera": "6.5 MP"
+    },
+    "features": [
+      "smart home",
+      "home"
+    ],
+    "description": "A connected-home device with 10-inch touchscreen and 6.5 MP.",
+    "tradeoff": "Some features require an account, compatible ecosystem, or subscription.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Nest Hub Max"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "dyson-v15-detect",
+    "name": "Dyson V15 Detect",
+    "brand": "Dyson",
+    "category": "appliances",
+    "department": "appliances",
+    "price": 749,
+    "source_url": "https://www.dyson.com/vacuum-cleaners",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Type": "Cordless stick vacuum",
+      "Feature": "Laser dust illumination"
+    },
+    "features": [
+      "home",
+      "pets",
+      "portable"
+    ],
+    "description": "A home appliance with Cordless stick vacuum and Laser dust illumination.",
+    "tradeoff": "Consider counter or storage space, cleaning effort, and replacement-part costs.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "V15 Detect"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "irobot-roomba-j7-plus",
+    "name": "iRobot Roomba j7+",
+    "brand": "iRobot",
+    "category": "appliances",
+    "department": "appliances",
+    "price": 799,
+    "source_url": "https://www.irobot.com/en_US/roomba.html",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Type": "Robot vacuum",
+      "Dock": "Self-emptying"
+    },
+    "features": [
+      "home",
+      "pets",
+      "self emptying"
+    ],
+    "description": "A home appliance with Robot vacuum and Self-emptying.",
+    "tradeoff": "Consider counter or storage space, cleaning effort, and replacement-part costs.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Roomba j7+"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "ninja-foodi-dualzone",
+    "name": "Ninja Foodi 6-in-1 DualZone",
+    "brand": "Ninja",
+    "category": "appliances",
+    "department": "appliances",
+    "price": 199,
+    "source_url": "https://www.sharkninja.com/ninja-kitchen",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Capacity": "8 qt",
+      "Baskets": "Two cooking zones"
+    },
+    "features": [
+      "home",
+      "dual zone"
+    ],
+    "description": "A home appliance with 8 qt and Two cooking zones.",
+    "tradeoff": "Consider counter or storage space, cleaning effort, and replacement-part costs.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Foodi 6-in-1 DualZone"
+    ],
+    "image_note": "Category illustration; see manufacturer for product photographs."
+  },
+  {
+    "id": "breville-barista-express",
+    "name": "Breville Barista Express",
+    "brand": "Breville",
+    "category": "appliances",
+    "department": "appliances",
+    "price": 699,
+    "source_url": "https://www.breville.com/en-us/shop/espresso",
+    "price_checked_at": "2026-09-27",
+    "price_kind": "launch_reference",
+    "compare_at_price": null,
+    "specs": {
+      "Type": "Espresso machine",
+      "Grinder": "Integrated burr grinder"
+    },
+    "features": [
+      "home"
+    ],
+    "description": "A home appliance with Espresso machine and Integrated burr grinder.",
+    "tradeoff": "Consider counter or storage space, cleaning effort, and replacement-part costs.",
+    "stock": 10,
+    "stock_source": "local_demo",
+    "icon": "",
+    "aliases": [
+      "Barista Express"
     ],
     "image_note": "Category illustration; see manufacturer for product photographs."
   }

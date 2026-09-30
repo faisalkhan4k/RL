@@ -1,8 +1,8 @@
 # Hierarchical RL Voice Sales Agent
 
 The storefront now has Home, Deal of the Day, Sales, Categories, Cart and Order
-Lookup pages, a persistent voice pill, and 24 real products with manufacturer
-links and dated price snapshots. Inventory/orders use a working **local demo MCP
+Lookup pages, a persistent voice pill, and 116 real products across 15 categories with manufacturer
+links and dated price references. Inventory/orders use a working **local demo MCP
 server**. No merchant account is connected and checkout takes no payment.
 See [commerce setup and limitations](docs/COMMERCE.md).
 
@@ -58,7 +58,7 @@ Training writes separate strategy/voice checkpoints, a behavior-cloning checkpoi
 
 Baselines: random, rules, supervised behavior cloning, PPO, PPO with the information reward disabled; voice compares fixed rules and PPO. `--llm-baseline` enables the hosted action baseline and may incur API charges; it is skipped by default. No hosted evaluation was run without credentials. Single-seed results and standard errors are exploratory. Repeat with multiple seeds before making research claims.
 
-The information-gain term uses reduction in unknown binary slot entropy. An earlier catalog run exhibited reward exploitation with zero simulated purchases. The 2026-09-23 run on the expanded catalog achieved 39% held-out synthetic success versus 23% for rules, with 100 test episodes and one seed. This is not evidence of real customer conversion improvement. The voice policy still underperformed fixed rules and was not promoted. See the linked run report for metrics and limitations.
+The information-gain term uses reduction in unknown binary slot entropy. Recommendation and purchase actions taken before budget/use-case evidence are penalized, as are repeated or unnecessary questions and policy-driven cart mutation. A September 2026 run with 50,000 steps and 200 held-out episodes found 63% synthetic success for rules and 0% for PPO. The checkpoint therefore was not promoted. This failed experiment is retained because it exposes remaining reward/model-design work instead of making a false RL-performance claim. The live app uses the stronger rule baseline plus deterministic customer-command overrides. Voice PPO also remained below fixed timing rules and was not promoted.
 
 Research dashboard: http://127.0.0.1:8000/research shows the latest session's belief, action distribution, wording provider and overrides. The store keeps this information out of its primary shopping flow.
 

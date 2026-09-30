@@ -6,6 +6,7 @@ from sales_agent.hrl.environments import CustomerGym,VoiceGym,PERSONAS
 from sales_agent.hrl.state import Strategy,VoiceAction,entropy,new_belief,vector,rule_action
 from sales_agent.hrl.policy import decide
 from sales_agent.graph import build_graph
+from sales_agent.hrl.language import template
 import asyncio
 import json
 import tempfile
@@ -31,6 +32,11 @@ class HRLTests(unittest.TestCase):
         self.assertLess(entropy(env.b),before)
         _,repeat,*_=env.step(Strategy.ASK_BUDGET)
         self.assertGreater(first,repeat);self.assertEqual(env.repeated,1)
+    def test_premature_recommendation_is_penalized(self):
+        env=CustomerGym();env.reset(seed=4)
+        _,reward,*_=env.step(Strategy.RECOMMEND_PRODUCT)
+        self.assertLess(reward,0)
+        self.assertLess(env.quality,.3)
     def test_split_disjointness(self):
         self.assertFalse(set(PERSONAS['train'])&set(PERSONAS['test']))
     def test_stop_overrides_policy_without_cart_mutation(self):
@@ -41,6 +47,24 @@ class HRLTests(unittest.TestCase):
         d=decide(vector(new_belief()))
         self.assertEqual(d['source'],'rule_baseline');self.assertEqual(d['action'],'ASK_BUDGET')
         self.assertAlmostEqual(sum(d['probabilities'].values()),1)
+    def test_rule_invites_purchase_without_claiming_cart_mutation(self):
+        b=new_belief();b['known'][0]=b['known'][1]=True;b['shown']=True
+        self.assertEqual(Strategy(rule_action(vector(b))),Strategy.ASK_FOR_PURCHASE)
+    def test_grounded_dialogue_connects_need_proof_and_tradeoff(self):
+        product={'name':'Travel Buds','category':'earbuds','price':149,'features':['travel','noise cancelling'],
+                 'specs':{'Battery':'8 hours'},'description':'Compact listening.','tradeoff':'Fit varies by ear.'}
+        reply=template('RECOMMEND_PRODUCT',[product],{'uses':['travel'],'features':['noise cancelling']})
+        self.assertIn('travel and noise cancelling',reply)
+        self.assertIn('Fit varies by ear',reply)
+    def test_value_and_trust_questions_select_the_right_strategy(self):
+        async def conversation(text):
+            return await build_graph().ainvoke({'messages':[{'role':'user','content':text}],
+                'requirements':{'category':'laptops','budget':1500,'uses':['work']},
+                'belief':new_belief()})
+        value=asyncio.run(conversation('Why is it worth it?'))
+        trust=asyncio.run(conversation('Can I trust the source and warranty?'))
+        self.assertEqual(value['strategy'],'EXPLAIN_VALUE')
+        self.assertEqual(trust['strategy'],'HANDLE_TRUST_OBJECTION')
     def test_rejected_product_is_not_recommended_again(self):
         async def conversation():
             graph=build_graph()

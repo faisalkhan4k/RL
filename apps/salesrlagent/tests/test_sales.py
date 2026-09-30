@@ -97,7 +97,9 @@ class SalesTests(unittest.TestCase):
         state = Store(str(Path(self.tmp.name) / 'test.sqlite3')).get(sid)
         self.assertEqual(state['requirements']['budget'], 130)
         self.assertEqual(len(state['messages']), 2)
-        self.assertEqual([p['id'] for p in self.client.post('/api/session').json()['products']], ['apple-airpods-5'])
+        products=self.client.post('/api/session').json()['products']
+        self.assertEqual(products[0]['id'],'apple-airpods-5')
+        self.assertTrue(all(p['category']=='earbuds' and p['price']<=130 for p in products))
 
     def test_no_fake_prediction_and_comparison(self):
         result = self.chat('Compare earbuds under $150').json()

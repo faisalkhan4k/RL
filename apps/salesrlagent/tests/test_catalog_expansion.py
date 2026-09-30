@@ -15,7 +15,8 @@ class CatalogExpansionTests(unittest.TestCase):
 
     def test_catalog_has_distinct_items_and_useful_facts(self):
         self.assertEqual(len({p['id'] for p in PRODUCTS}),len(PRODUCTS))
-        self.assertGreaterEqual(len(PRODUCTS),24)
+        self.assertGreaterEqual(len(PRODUCTS),100)
+        self.assertGreaterEqual(len({p['category'] for p in PRODUCTS}),15)
         for p in PRODUCTS:
             self.assertTrue(p['description'] and p['tradeoff'] and p['specs'])
             self.assertGreater(p['price'],0)

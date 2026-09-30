@@ -51,10 +51,11 @@ class CustomerGym(gym.Env):
             else:
                 self.b['known'][a.value]=True
                 self.b['values'][a.value]=min(self.hidden['budget']/3000,1) if a.value==0 else float(self.hidden['values'][a.value])
-                r+=.5
+                r+=-.4 if a.value>=2 else .5
             self.b['asked'].append(a.name)
         elif a in [Strategy.RECOMMEND_PRODUCT,Strategy.SEARCH_PRODUCTS,Strategy.SHOW_ALTERNATIVE,
                    Strategy.COMPARE_PRODUCTS,Strategy.DOWNSELL,Strategy.HANDLE_PRICE_OBJECTION,Strategy.UPSELL]:
+            missing_core=int(not self.b['known'][0])+int(not self.b['known'][1])
             budget=self.b['values'][0]*3000 if self.b['known'][0] else 1000
             candidates=[p for p in PRODUCTS if p['price']<=budget and p['category']=='laptops']
             if a in [Strategy.DOWNSELL,Strategy.HANDLE_PRICE_OBJECTION]: candidates=sorted(candidates,key=lambda p:p['price'])
@@ -63,24 +64,32 @@ class CustomerGym(gym.Env):
             affordable=bool(p and p['price']<=self.hidden['budget'])
             performance=float(bool(p and ('gaming' in p['features'] or 'creator' in p['features'])))
             self.quality=(.6+.4*(1-abs(performance-self.hidden['values'][3]))) if affordable else 0.
+            if missing_core:
+                self.quality*=.25
+                r-=1.5*missing_core
             if not self.b['shown']: r+=4*self.quality if affordable else -2
             else: r-=.2
             if a==Strategy.UPSELL: r-=2
             self.b['shown']=True; self.b['objection']=not affordable
         elif a==Strategy.ADD_TO_CART:
-            if self.b['shown'] and self.quality>.6 and not self.b['cart']: self.b['cart']=True; r+=3
-            else: r-=1
+            # The policy may invite an action, but only the customer command is
+            # allowed to mutate a real cart. Discourage simulated auto-adds.
+            r-=2
         elif a==Strategy.ASK_FOR_PURCHASE:
-            if self.b['cart'] and self.np_random.random()<self.hidden['intent']*self.quality:
-                self.success=True; done=True; r+=10
-            else: r-=1; self.b['objection']=True
-        elif a==Strategy.END_CONVERSATION: done=True
-        elif a in [Strategy.EXPLAIN_VALUE,Strategy.HANDLE_TRUST_OBJECTION,Strategy.HANDLE_FEATURE_OBJECTION]:
-            r+=.2 if self.b['objection'] else -.5; self.b['objection']=False
-            if self.persona=='skeptical':self.hidden['intent']=min(.8,self.hidden['intent']+.15)
-        elif a==Strategy.SCHEDULE_FOLLOWUP: done=True; r+=.2
+            grounded=self.b['known'][0] and self.b['known'][1]
+            if grounded and self.b['shown'] and self.np_random.random()<self.hidden['intent']*self.quality:
+                self.b['cart']=True;self.success=True;done=True;r+=10
+            else:r-=3 if not grounded else .5;self.b['objection']=True
+        elif a==Strategy.END_CONVERSATION: done=True;r-=3 if not self.success else 0
+        elif a in [Strategy.EXPLAIN_VALUE,Strategy.EXPLAIN_FEATURE,Strategy.HANDLE_TRUST_OBJECTION,Strategy.HANDLE_FEATURE_OBJECTION]:
+            useful=self.b['shown'] and (self.b['objection'] or self.persona in ['skeptical','technical','uncertain'])
+            r+=1 if useful else -.4;self.b['objection']=False
+            if useful:self.hidden['intent']=min(.9,self.hidden['intent']+.15)
+        elif a==Strategy.SCHEDULE_FOLLOWUP: done=True;r-=1
         else: r-=.3
-        gain=before-entropy(self.b); self.gain+=gain
+        gain=before-entropy(self.b)
+        if a.value in range(2,6):gain*=.1
+        self.gain+=gain
         if self.information_reward:r+=gain
         if not done and self.b['turn']>=self.hidden['patience']: done=True; self.abandoned=True; r-=5
         self.b['engagement']=max(0,1-self.b['turn']/20)
